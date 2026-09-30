@@ -8,9 +8,13 @@ One repository for the three analyses in the paper. Each folder stands on its ow
 | [`literature/`](literature/) | Syntactic hop-depth spectrum of books: slope \(\beta\) and spectral entropy |
 | [`dna/`](dna/) | Genomic spectrum and base-composition entropy |
 
-## Music data
+## Data
 
-The music track table and envelope spectra are not in this repository. They are the Zenodo archive `envelope_spectra_data.zip`. Unpack it so `tracks.csv` and `spectra.npz` are in `music/data/`, then:
+The measurements, texts, and genome FASTA are deposited on Zenodo, not in this repository:
+
+https://doi.org/10.5281/zenodo.23044174
+
+That record holds the music track table and envelope spectra, the literary texts and hop-depth spectra, and the DNA FASTA. For the music figure, place `tracks.csv` and `spectra.npz` in `music/data/`, then:
 
 ```text
 cd music
@@ -30,4 +34,4 @@ python generate_collage.py
 
 ## DNA
 
-`dna/genomic_spectral_analysis.py` and `dna/composition_shannon_entropy.py` read a local FASTA file (`diverse_long_genomes_voss.fasta`). That genome file is not included.
+`dna/genomic_spectral_analysis.py` and `dna/composition_shannon_entropy.py` read `diverse_long_genomes_voss.fasta` from the Zenodo record. Place that file next to the scripts.

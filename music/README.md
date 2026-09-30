@@ -92,17 +92,11 @@ This rewrites `results/category_summary.csv` and
 
 ## Zenodo dataset
 
-Upload `envelope_spectra_data.zip` only. It contains `tracks.csv`,
-`spectra.npz`, `category_summary.csv`, and a short README. It does not
-contain this code.
+Music, literature, and DNA data are at https://doi.org/10.5281/zenodo.23044174.
 
-On [zenodo.org](https://zenodo.org), choose **New upload**, add that zip,
-and publish it under CC BY 4.0. Then put the DOI in this README.
-
-Raw audio is not in the zip. Jamendo, Saraga 1.5, and the Radio Nederland
+Raw audio is not included. Jamendo, Saraga 1.5, and the Radio Nederland
 concert broadcasts stay with those collections; `tracks.csv` records the
-filename and crop offset. Shannon entropy and the earlier STFT analyses
-are not part of this paper.
+filename and crop offset.
 
 ## References
 
