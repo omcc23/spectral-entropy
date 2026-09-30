@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Hop-depth spectra and spectral entropy of literary syntax: code, corpus, and figure data"
+message: "If you use this dataset, please cite it and the accompanying paper."
+type: dataset
+authors:
+  - family-names: Kirti
+    given-names: Rishi
+    affiliation: Indian Institute of Technology Kanpur
+    email: rishikirti534@gmail.com
+  - given-names: Om
+    affiliation: Indian Institute of Technology Kanpur
+  - given-names: Shreyas
+    affiliation: Indian Institute of Technology Kanpur
+  - family-names: Verma
+    given-names: Mahendra K.
+    affiliation: Indian Institute of Technology Kanpur
+    email: mkv@iitk.ac.in
+keywords:
+  - spectral entropy
+  - syntactic dependency depth
+  - 1/f scaling
+  - multilingual literature
+  - Project Gutenberg
+license: MIT
+repository-code: https://github.com/

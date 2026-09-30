@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Envelope-spectrum slope and hydrodynamic entropy of long-duration music recordings"
+message: "If you use this dataset or code, please cite it."
+type: software
+license: CC-BY-4.0
+abstract: >-
+  Code that measures the loudness-envelope spectrum of long music
+  recordings and rebuilds the reported slope, hydrodynamic entropy,
+  and three-panel figure. The measurements themselves are deposited
+  separately on Zenodo.

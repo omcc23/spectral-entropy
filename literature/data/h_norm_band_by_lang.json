@@ -1,0 +1,1827 @@
+{
+  "dutch": {
+    "k_plateau": 98,
+    "n": 14,
+    "h_norm_mean": 0.8828423499820801,
+    "h_norm_band_mean": 0.8962496982548978,
+    "h_norm_band_bins_mean": 0.89817007614293,
+    "h_norm_band_median": 0.8922333261702243,
+    "h_norm_band_std": 0.020386409811924043,
+    "books": [
+      {
+        "title": "11024 Max Havelaar",
+        "h_norm": 0.8602852070161413,
+        "h_norm_band": 0.8842455287730128,
+        "h_norm_band_bins": 0.8861401855459561
+      },
+      {
+        "title": "11851 Bartje",
+        "h_norm": 0.9391343201707897,
+        "h_norm_band": 0.9393527461235631,
+        "h_norm_band_bins": 0.9413654801264091
+      },
+      {
+        "title": "18066 Multatulis Max Havelaar",
+        "h_norm": 0.8806231225216561,
+        "h_norm_band": 0.8844610968883214,
+        "h_norm_band_bins": 0.8863562155551352
+      },
+      {
+        "title": "19027 De Hond Van De Baskervil",
+        "h_norm": 0.8773174137236333,
+        "h_norm_band": 0.8948584045269747,
+        "h_norm_band_bins": 0.8967758013153022
+      },
+      {
+        "title": "20781 Camera Obscura",
+        "h_norm": 0.879583474297292,
+        "h_norm_band": 0.8972377532217926,
+        "h_norm_band_bins": 0.8991602481971882
+      },
+      {
+        "title": "25964 De Kleine Johannes",
+        "h_norm": 0.9122905495416653,
+        "h_norm_band": 0.917546439243328,
+        "h_norm_band_bins": 0.9195124492699942
+      },
+      {
+        "title": "26893 Het Achterhuis",
+        "h_norm": 0.8785542284992462,
+        "h_norm_band": 0.8896082478134739,
+        "h_norm_band_bins": 0.8915143951867323
+      },
+      {
+        "title": "3455 Nederlandsche Sagen En Le",
+        "h_norm": 0.8910122645907956,
+        "h_norm_band": 0.9071143847915056,
+        "h_norm_band_bins": 0.909058042245295
+      },
+      {
+        "title": "6712 Akbar Een Oosterse Roman",
+        "h_norm": 0.8308187905231877,
+        "h_norm_band": 0.8655059687507682,
+        "h_norm_band_bins": 0.8673604726101115
+      },
+      {
+        "title": "6748 Fulco De Minstreel Een Hi",
+        "h_norm": 0.8655025493538407,
+        "h_norm_band": 0.8866134669820093,
+        "h_norm_band_bins": 0.8885131974929807
+      },
+      {
+        "title": "6922 De Liereman",
+        "h_norm": 0.9164939912831365,
+        "h_norm_band": 0.9194969978370889,
+        "h_norm_band_bins": 0.9214671872900914
+      },
+      {
+        "title": "6959 Myne Eerste Vlerken",
+        "h_norm": 0.9085080737095909,
+        "h_norm_band": 0.9139767541318634,
+        "h_norm_band_bins": 0.9159351154593237
+      },
+      {
+        "title": "8096 Reize Naar Surinamen En D",
+        "h_norm": 0.8432533444352316,
+        "h_norm_band": 0.8650000134027566,
+        "h_norm_band_bins": 0.8668534331608002
+      },
+      {
+        "title": "8097 Reize Naar Surinamen En D",
+        "h_norm": 0.876415570082916,
+        "h_norm_band": 0.882477973082112,
+        "h_norm_band_bins": 0.8843688425457025
+      }
+    ]
+  },
+  "english": {
+    "k_plateau": 98,
+    "n": 98,
+    "h_norm_mean": 0.8457371842446907,
+    "h_norm_band_mean": 0.8697644021437212,
+    "h_norm_band_bins_mean": 0.8716280304706557,
+    "h_norm_band_median": 0.8691597342986069,
+    "h_norm_band_std": 0.01437499996043204,
+    "books": [
+      {
+        "title": "100 Complete Works Of Shakespe",
+        "h_norm": 0.869557769043462,
+        "h_norm_band": 0.8854799331461196,
+        "h_norm_band_bins": 0.8873772348548076
+      },
+      {
+        "title": "1023 Bleak House",
+        "h_norm": 0.8219802678983447,
+        "h_norm_band": 0.8495409916357417,
+        "h_norm_band_bins": 0.8513612876296939
+      },
+      {
+        "title": "103 Around The World In 80 Day",
+        "h_norm": 0.8530113912391136,
+        "h_norm_band": 0.8758907863773189,
+        "h_norm_band_bins": 0.8777675415960545
+      },
+      {
+        "title": "10616 The Art Of War",
+        "h_norm": 0.8435111435939747,
+        "h_norm_band": 0.8590815235974172,
+        "h_norm_band_bins": 0.8609222619152608
+      },
+      {
+        "title": "11 Alice In Wonderland",
+        "h_norm": 0.8546491885800118,
+        "h_norm_band": 0.8757075333286659,
+        "h_norm_band_bins": 0.8775838958944353
+      },
+      {
+        "title": "1184 The Count Of Monte Cristo",
+        "h_norm": 0.8262812207060941,
+        "h_norm_band": 0.8703256908856969,
+        "h_norm_band_bins": 0.8721905218757855
+      },
+      {
+        "title": "120 Treasure Island",
+        "h_norm": 0.8576574692087369,
+        "h_norm_band": 0.8733741761771929,
+        "h_norm_band_bins": 0.8752455391011357
+      },
+      {
+        "title": "1232 The Prince",
+        "h_norm": 0.8341466852244872,
+        "h_norm_band": 0.8552832190713838,
+        "h_norm_band_bins": 0.8571158188313701
+      },
+      {
+        "title": "1250 Anthem",
+        "h_norm": 0.8838006882961373,
+        "h_norm_band": 0.8889408822014815,
+        "h_norm_band_bins": 0.8908455996226103
+      },
+      {
+        "title": "1260 Jane Eyre",
+        "h_norm": 0.8251286780127626,
+        "h_norm_band": 0.8603080098550904,
+        "h_norm_band_bins": 0.862151376142677
+      },
+      {
+        "title": "1322 Leaves Of Grass",
+        "h_norm": 0.7480458105974951,
+        "h_norm_band": 0.8646047353763037,
+        "h_norm_band_bins": 0.8664573081793266
+      },
+      {
+        "title": "1342 Pride And Prejudice",
+        "h_norm": 0.8285303020201967,
+        "h_norm_band": 0.8595150329245566,
+        "h_norm_band_bins": 0.8613567001149316
+      },
+      {
+        "title": "135 Les Miserables",
+        "h_norm": 0.7921598531684769,
+        "h_norm_band": 0.8502442795579042,
+        "h_norm_band_bins": 0.8520660824740649
+      },
+      {
+        "title": "1399 Anna Karenina",
+        "h_norm": 0.8440577092573411,
+        "h_norm_band": 0.8663807969481768,
+        "h_norm_band_bins": 0.8682371752859488
+      },
+      {
+        "title": "1400 Great Expectations",
+        "h_norm": 0.8521774700248905,
+        "h_norm_band": 0.8729560342126872,
+        "h_norm_band_bins": 0.8748265011914661
+      },
+      {
+        "title": "1497 Republic",
+        "h_norm": 0.8080888168654581,
+        "h_norm_band": 0.861454351638673,
+        "h_norm_band_bins": 0.8633001741718992
+      },
+      {
+        "title": "1513 Romeo And Juliet",
+        "h_norm": 0.8310780446105621,
+        "h_norm_band": 0.8717043847943545,
+        "h_norm_band_bins": 0.8735721698867449
+      },
+      {
+        "title": "1514 The Tempest",
+        "h_norm": 0.8162984095989608,
+        "h_norm_band": 0.8786977903643549,
+        "h_norm_band_bins": 0.8805805600993564
+      },
+      {
+        "title": "1524 Hamlet",
+        "h_norm": 0.8395474605321671,
+        "h_norm_band": 0.8843645689937795,
+        "h_norm_band_bins": 0.8862594808320335
+      },
+      {
+        "title": "1532 Othello",
+        "h_norm": 0.8782664013611525,
+        "h_norm_band": 0.8912177982863267,
+        "h_norm_band_bins": 0.8931273944140379
+      },
+      {
+        "title": "1533 Macbeth",
+        "h_norm": 0.8795897729621837,
+        "h_norm_band": 0.894863275146448,
+        "h_norm_band_bins": 0.8967806823709631
+      },
+      {
+        "title": "16 Peter Pan",
+        "h_norm": 0.8566882511895234,
+        "h_norm_band": 0.8763066884560938,
+        "h_norm_band_bins": 0.878184334820631
+      },
+      {
+        "title": "160 The Jungle Book",
+        "h_norm": 0.8636956713602519,
+        "h_norm_band": 0.8689781780016892,
+        "h_norm_band_bins": 0.8708401217004891
+      },
+      {
+        "title": "16328 Beowulf",
+        "h_norm": 0.8825218117755836,
+        "h_norm_band": 0.893826511069135,
+        "h_norm_band_bins": 0.8957416968381638
+      },
+      {
+        "title": "164 20000 Leagues Under The Se",
+        "h_norm": 0.8402448364172297,
+        "h_norm_band": 0.8648860497405083,
+        "h_norm_band_bins": 0.8667392253106906
+      },
+      {
+        "title": "1661 Sherlock Holmes Adventure",
+        "h_norm": 0.8526147206969251,
+        "h_norm_band": 0.8728352417297409,
+        "h_norm_band_bins": 0.8747054498886689
+      },
+      {
+        "title": "1727 The Odyssey",
+        "h_norm": 0.8453869754645418,
+        "h_norm_band": 0.8590880763185585,
+        "h_norm_band_bins": 0.8609288286767983
+      },
+      {
+        "title": "174 The Picture Of Dorian Gray",
+        "h_norm": 0.8544547269203857,
+        "h_norm_band": 0.8732835462425345,
+        "h_norm_band_bins": 0.8751547149753686
+      },
+      {
+        "title": "19337 A Doll S House",
+        "h_norm": 0.8634267349520833,
+        "h_norm_band": 0.8740981280303383,
+        "h_norm_band_bins": 0.8759710421527177
+      },
+      {
+        "title": "1998 Thus Spake Zarathustra Al",
+        "h_norm": 0.806086507993221,
+        "h_norm_band": 0.8679577538505581,
+        "h_norm_band_bins": 0.8698175111051337
+      },
+      {
+        "title": "209 The Turn Of The Screw",
+        "h_norm": 0.8192299498546257,
+        "h_norm_band": 0.8468008019948782,
+        "h_norm_band_bins": 0.848615226634446
+      },
+      {
+        "title": "2147 The Works Of Edgar Allan ",
+        "h_norm": 0.8510137549620853,
+        "h_norm_band": 0.8656842788518487,
+        "h_norm_band_bins": 0.8675391647729946
+      },
+      {
+        "title": "2148 The Works Of Edgar Allan ",
+        "h_norm": 0.8157716245294875,
+        "h_norm_band": 0.8493963714735259,
+        "h_norm_band_bins": 0.8512163575924931
+      },
+      {
+        "title": "215 The Call Of The Wild",
+        "h_norm": 0.8639930152749338,
+        "h_norm_band": 0.8706794707843114,
+        "h_norm_band_bins": 0.8725450598121387
+      },
+      {
+        "title": "2264 A Midsummer Night S Dream",
+        "h_norm": 0.8676531980071942,
+        "h_norm_band": 0.881659009762621,
+        "h_norm_band_bins": 0.8835481244484382
+      },
+      {
+        "title": "2267 King Lear",
+        "h_norm": 0.8794068901301739,
+        "h_norm_band": 0.8958387424568222,
+        "h_norm_band_bins": 0.8977582397973585
+      },
+      {
+        "title": "23 Narrative Of Frederick Doug",
+        "h_norm": 0.8298828758027603,
+        "h_norm_band": 0.864825808698123,
+        "h_norm_band_bins": 0.866678855190922
+      },
+      {
+        "title": "236 The Jungle Book 2",
+        "h_norm": 0.8497692842593991,
+        "h_norm_band": 0.8650029772969117,
+        "h_norm_band_bins": 0.8668564034056373
+      },
+      {
+        "title": "244 A Study In Scarlet",
+        "h_norm": 0.8669738395949673,
+        "h_norm_band": 0.8757157134935771,
+        "h_norm_band_bins": 0.8775920935868368
+      },
+      {
+        "title": "2500 Siddhartha",
+        "h_norm": 0.8422097591089786,
+        "h_norm_band": 0.8632465202560676,
+        "h_norm_band_bins": 0.8650961828363155
+      },
+      {
+        "title": "25344 The Scarlet Letter",
+        "h_norm": 0.8511445229726203,
+        "h_norm_band": 0.8610943802554082,
+        "h_norm_band_bins": 0.8629394314845145
+      },
+      {
+        "title": "2542 Paradise Lost",
+        "h_norm": 0.8772703588578985,
+        "h_norm_band": 0.8918152877831717,
+        "h_norm_band_bins": 0.8937261641407344
+      },
+      {
+        "title": "2554 Crime And Punishment",
+        "h_norm": 0.8640092918150855,
+        "h_norm_band": 0.8754915164975902,
+        "h_norm_band_bins": 0.877367416208034
+      },
+      {
+        "title": "2591 Grimm S Fairy Tales",
+        "h_norm": 0.8558555778196094,
+        "h_norm_band": 0.8768046214409831,
+        "h_norm_band_bins": 0.8786833347174487
+      },
+      {
+        "title": "2600 War And Peace",
+        "h_norm": 0.8262282849298871,
+        "h_norm_band": 0.8656949685024694,
+        "h_norm_band_bins": 0.8675498773281347
+      },
+      {
+        "title": "2680 Meditations On First Phil",
+        "h_norm": 0.8561317176230325,
+        "h_norm_band": 0.8639125545995915,
+        "h_norm_band_bins": 0.8657636442794842
+      },
+      {
+        "title": "2701 Moby Dick",
+        "h_norm": 0.8412262169378137,
+        "h_norm_band": 0.8653157219825859,
+        "h_norm_band_bins": 0.8671698182036475
+      },
+      {
+        "title": "28054 The Brothers Karamazov",
+        "h_norm": 0.8275921162246173,
+        "h_norm_band": 0.852848797331347,
+        "h_norm_band_bins": 0.8546761809002553
+      },
+      {
+        "title": "2814 Dubliners",
+        "h_norm": 0.8616581047693129,
+        "h_norm_band": 0.8777729649627835,
+        "h_norm_band_bins": 0.8796537530912584
+      },
+      {
+        "title": "28233 The King In Yellow",
+        "h_norm": 0.866874594882299,
+        "h_norm_band": 0.8763701294928561,
+        "h_norm_band_bins": 0.8782479117913461
+      },
+      {
+        "title": "2852 The Hound Of The Baskervi",
+        "h_norm": 0.8566018132234462,
+        "h_norm_band": 0.8683446849239383,
+        "h_norm_band_bins": 0.8702052712486703
+      },
+      {
+        "title": "30254 The Romance Of Lust",
+        "h_norm": 0.852985290596393,
+        "h_norm_band": 0.8664604235757513,
+        "h_norm_band_bins": 0.8683169725280464
+      },
+      {
+        "title": "31284 The Importance Of Being ",
+        "h_norm": 0.9028943427811842,
+        "h_norm_band": 0.905177963966619,
+        "h_norm_band_bins": 0.9071174722868117
+      },
+      {
+        "title": "3176 The Awakening",
+        "h_norm": 0.8179136301554717,
+        "h_norm_band": 0.8502456779401387,
+        "h_norm_band_bins": 0.8520674838525876
+      },
+      {
+        "title": "3207 Leviathan",
+        "h_norm": 0.8580961982186402,
+        "h_norm_band": 0.8776273132814407,
+        "h_norm_band_bins": 0.8795077893247135
+      },
+      {
+        "title": "3296 On The Origin Of Species",
+        "h_norm": 0.8535077714295838,
+        "h_norm_band": 0.874571547060763,
+        "h_norm_band_bins": 0.8764454755694676
+      },
+      {
+        "title": "345 Dracula",
+        "h_norm": 0.8499035526626424,
+        "h_norm_band": 0.8609743941967103,
+        "h_norm_band_bins": 0.8628191883338762
+      },
+      {
+        "title": "35 The Time Machine",
+        "h_norm": 0.876228872214155,
+        "h_norm_band": 0.8850394223163796,
+        "h_norm_band_bins": 0.8869357801505441
+      },
+      {
+        "title": "36 The War Of The Worlds",
+        "h_norm": 0.8706267655847961,
+        "h_norm_band": 0.8789191061313402,
+        "h_norm_band_bins": 0.8808023500756006
+      },
+      {
+        "title": "3600 Meditations",
+        "h_norm": 0.8344300591732939,
+        "h_norm_band": 0.8538092012740475,
+        "h_norm_band_bins": 0.8556386426829737
+      },
+      {
+        "title": "408 Souls Of Black Folk",
+        "h_norm": 0.8586847460931942,
+        "h_norm_band": 0.8713830110000179,
+        "h_norm_band_bins": 0.8732501074906385
+      },
+      {
+        "title": "4085 The Castle Of Otranto",
+        "h_norm": 0.8400486401873547,
+        "h_norm_band": 0.8578335446763682,
+        "h_norm_band_bins": 0.8596716089725308
+      },
+      {
+        "title": "4217 A Portrait Of The Artist ",
+        "h_norm": 0.8497705239090512,
+        "h_norm_band": 0.8736322633985052,
+        "h_norm_band_bins": 0.8755041793212316
+      },
+      {
+        "title": "43 The Strange Case Of Dr Jeky",
+        "h_norm": 0.8512268197276271,
+        "h_norm_band": 0.8722360275613281,
+        "h_norm_band_bins": 0.8741049517949824
+      },
+      {
+        "title": "4300 Ulysses",
+        "h_norm": 0.8787232781554905,
+        "h_norm_band": 0.8869807222323746,
+        "h_norm_band_bins": 0.8888812396544753
+      },
+      {
+        "title": "432 The Portrait Of A Lady",
+        "h_norm": 0.8319803129055827,
+        "h_norm_band": 0.8451165755767134,
+        "h_norm_band_bins": 0.8469273914550418
+      },
+      {
+        "title": "4363 Beyond Good And Evil",
+        "h_norm": 0.8058571800639864,
+        "h_norm_band": 0.842512246477458,
+        "h_norm_band_bins": 0.8443174821073077
+      },
+      {
+        "title": "45 Anne Of Green Gables",
+        "h_norm": 0.8524444588722137,
+        "h_norm_band": 0.8761212229513032,
+        "h_norm_band_bins": 0.8779984719222848
+      },
+      {
+        "title": "46 A Christmas Carol",
+        "h_norm": 0.8481551951217057,
+        "h_norm_band": 0.8631862628930891,
+        "h_norm_band_bins": 0.8650357963609839
+      },
+      {
+        "title": "4705 A Treatise Of Human Natur",
+        "h_norm": 0.8704810155107483,
+        "h_norm_band": 0.8764765076387593,
+        "h_norm_band_bins": 0.878354517871763
+      },
+      {
+        "title": "514 Little Women",
+        "h_norm": 0.8583282351511273,
+        "h_norm_band": 0.8681842557037037,
+        "h_norm_band_bins": 0.8700444982796706
+      },
+      {
+        "title": "5200 Metamorphosis",
+        "h_norm": 0.8579855055977591,
+        "h_norm_band": 0.8636185049733429,
+        "h_norm_band_bins": 0.8654689645984625
+      },
+      {
+        "title": "5230 The Invisible Man",
+        "h_norm": 0.8359157872131524,
+        "h_norm_band": 0.876753037919911,
+        "h_norm_band_bins": 0.8786316406693064
+      },
+      {
+        "title": "55 The Wonderful Wizard Of Oz",
+        "h_norm": 0.8793898248141916,
+        "h_norm_band": 0.8837647531299734,
+        "h_norm_band_bins": 0.885658379753712
+      },
+      {
+        "title": "5827 The Problems Of Philosoph",
+        "h_norm": 0.857661957709978,
+        "h_norm_band": 0.8637218794319309,
+        "h_norm_band_bins": 0.8655725605556183
+      },
+      {
+        "title": "58585 The Rime Of The Ancient ",
+        "h_norm": 0.8940063240072428,
+        "h_norm_band": 0.8998843537434817,
+        "h_norm_band_bins": 0.9018125195415624
+      },
+      {
+        "title": "6130 The Iliad",
+        "h_norm": 0.8459514625125233,
+        "h_norm_band": 0.8584639523163531,
+        "h_norm_band_bins": 0.8603033673754723
+      },
+      {
+        "title": "64317 The Great Gatsby",
+        "h_norm": 0.8657426232516975,
+        "h_norm_band": 0.8778963725238551,
+        "h_norm_band_bins": 0.8797774250754612
+      },
+      {
+        "title": "6688 Autobiography Of Benjamin",
+        "h_norm": 0.85804431042445,
+        "h_norm_band": 0.8704429736229123,
+        "h_norm_band_bins": 0.8723080559125838
+      },
+      {
+        "title": "7205 Thus Spake Zarathustra",
+        "h_norm": 0.9090769564032861,
+        "h_norm_band": 0.9131330741377458,
+        "h_norm_band_bins": 0.9150896277274647
+      },
+      {
+        "title": "73 Tom Sawyer Abroad",
+        "h_norm": 0.8799203276756695,
+        "h_norm_band": 0.8845160807850444,
+        "h_norm_band_bins": 0.8864113172648512
+      },
+      {
+        "title": "730 Oliver Twist",
+        "h_norm": 0.8081883092074956,
+        "h_norm_band": 0.8622792856158,
+        "h_norm_band_bins": 0.8641268757200189
+      },
+      {
+        "title": "7370 Second Treatise Of Govern",
+        "h_norm": 0.8254031021356246,
+        "h_norm_band": 0.8569566216513246,
+        "h_norm_band_bins": 0.8587928069805095
+      },
+      {
+        "title": "74 Tom Sawyer",
+        "h_norm": 0.8267541445423658,
+        "h_norm_band": 0.8637625059804152,
+        "h_norm_band_bins": 0.8656132741538671
+      },
+      {
+        "title": "76 Huckleberry Finn",
+        "h_norm": 0.8595088058879585,
+        "h_norm_band": 0.8822604739625238,
+        "h_norm_band_bins": 0.8841508773947162
+      },
+      {
+        "title": "766 David Copperfield",
+        "h_norm": 0.8355386058572856,
+        "h_norm_band": 0.8672814678686925,
+        "h_norm_band_bins": 0.8691397760576249
+      },
+      {
+        "title": "768 Wuthering Heights",
+        "h_norm": 0.8608110921045647,
+        "h_norm_band": 0.8677650845773114,
+        "h_norm_band_bins": 0.869624429002948
+      },
+      {
+        "title": "7849 The Trial",
+        "h_norm": 0.8640731208663917,
+        "h_norm_band": 0.8693412905955247,
+        "h_norm_band_bins": 0.8712040123290591
+      },
+      {
+        "title": "786 Around The World In 80 Day",
+        "h_norm": 0.8219638752737602,
+        "h_norm_band": 0.8627788874009586,
+        "h_norm_band_bins": 0.8646275479928138
+      },
+      {
+        "title": "805 This Side Of Paradise",
+        "h_norm": 0.8484747650951707,
+        "h_norm_band": 0.8678022363813315,
+        "h_norm_band_bins": 0.8696616604114612
+      },
+      {
+        "title": "829 Gulliver S Travels",
+        "h_norm": 0.8560282541103059,
+        "h_norm_band": 0.8627282143665743,
+        "h_norm_band_bins": 0.8645767663822426
+      },
+      {
+        "title": "84 Frankenstein",
+        "h_norm": 0.8202150785863324,
+        "h_norm_band": 0.848954339698423,
+        "h_norm_band_bins": 0.850773378683965
+      },
+      {
+        "title": "844 The Importance Of Being Ea",
+        "h_norm": 0.8784174066057313,
+        "h_norm_band": 0.8893392652921421,
+        "h_norm_band_bins": 0.8912448363214561
+      },
+      {
+        "title": "8492 The Communist Manifesto",
+        "h_norm": 0.8607303618433366,
+        "h_norm_band": 0.8735475609535063,
+        "h_norm_band_bins": 0.8754192953858482
+      },
+      {
+        "title": "8800 The Divine Comedy",
+        "h_norm": 0.6100358212546385,
+        "h_norm_band": 0.8251445556604616,
+        "h_norm_band_bins": 0.8269125778558453
+      },
+      {
+        "title": "910 White Fang",
+        "h_norm": 0.8679179514429384,
+        "h_norm_band": 0.877162788520936,
+        "h_norm_band_bins": 0.8790422692354737
+      },
+      {
+        "title": "98 A Tale Of Two Cities",
+        "h_norm": 0.7642012793017527,
+        "h_norm_band": 0.853286960663044,
+        "h_norm_band_bins": 0.8551152830765345
+      },
+      {
+        "title": "996 Don Quixote",
+        "h_norm": 0.8048185325878447,
+        "h_norm_band": 0.8323259076580966,
+        "h_norm_band_bins": 0.8341093172054752
+      }
+    ]
+  },
+  "finnish": {
+    "k_plateau": 86,
+    "n": 13,
+    "h_norm_mean": 0.8677541760501557,
+    "h_norm_band_mean": 0.8879546831865633,
+    "h_norm_band_bins_mean": 0.8896206457300514,
+    "h_norm_band_median": 0.8898106766639939,
+    "h_norm_band_std": 0.0133714644097583,
+    "books": [
+      {
+        "title": "10481 Rautatie",
+        "h_norm": 0.8765780294343675,
+        "h_norm_band": 0.8949850041720319,
+        "h_norm_band_bins": 0.8966641568609771
+      },
+      {
+        "title": "10492 Agnes",
+        "h_norm": 0.8933215631510977,
+        "h_norm_band": 0.8994413660996174,
+        "h_norm_band_bins": 0.9011288797243089
+      },
+      {
+        "title": "11940 Seitsem N Veljest",
+        "h_norm": 0.8804152947574393,
+        "h_norm_band": 0.8963461392483508,
+        "h_norm_band_bins": 0.8980278456712836
+      },
+      {
+        "title": "34721 Juha",
+        "h_norm": 0.8498563123218822,
+        "h_norm_band": 0.8636403101609236,
+        "h_norm_band_bins": 0.8652606545715317
+      },
+      {
+        "title": "42044 Hurskas Kurjuus",
+        "h_norm": 0.8707392982971538,
+        "h_norm_band": 0.8807271762571467,
+        "h_norm_band_bins": 0.8823795786989145
+      },
+      {
+        "title": "44818 Meek Heritage Finnish",
+        "h_norm": 0.8742286394749438,
+        "h_norm_band": 0.8843346150290035,
+        "h_norm_band_bins": 0.8859937856741329
+      },
+      {
+        "title": "45654 Maa",
+        "h_norm": 0.8339001666599938,
+        "h_norm_band": 0.8743101311919537,
+        "h_norm_band_bins": 0.8759504941040912
+      },
+      {
+        "title": "57019 Rautatie",
+        "h_norm": 0.8363418463153427,
+        "h_norm_band": 0.8675800497616651,
+        "h_norm_band_bins": 0.8692077858317017
+      },
+      {
+        "title": "7000 Kalevala",
+        "h_norm": 0.9094867388524467,
+        "h_norm_band": 0.9097678495272984,
+        "h_norm_band_bins": 0.9114747374904805
+      },
+      {
+        "title": "7078 Kanteletar Suomen Kansan ",
+        "h_norm": 0.8362372991641289,
+        "h_norm_band": 0.8998798917327937,
+        "h_norm_band_bins": 0.9015682281103723
+      },
+      {
+        "title": "8451 Aarniomets N Syd N",
+        "h_norm": 0.877831002223217,
+        "h_norm_band": 0.8820481999244792,
+        "h_norm_band_bins": 0.8837030808440236
+      },
+      {
+        "title": "8494 Omatunto Saaristokertomus",
+        "h_norm": 0.8787868906004209,
+        "h_norm_band": 0.9005394716560631,
+        "h_norm_band_bins": 0.9022290455240984
+      },
+      {
+        "title": "9082 Muistatko Kukkia Kev Isel",
+        "h_norm": 0.8630812073995892,
+        "h_norm_band": 0.8898106766639939,
+        "h_norm_band_bins": 0.8914801213847519
+      }
+    ]
+  },
+  "french": {
+    "k_plateau": 98,
+    "n": 27,
+    "h_norm_mean": 0.8651685960130825,
+    "h_norm_band_mean": 0.8872849838209098,
+    "h_norm_band_bins_mean": 0.8891861531787691,
+    "h_norm_band_median": 0.8753258593081157,
+    "h_norm_band_std": 0.02886841887740373,
+    "books": [
+      {
+        "title": "1256 Cyrano De Bergerac",
+        "h_norm": 0.8575504733269343,
+        "h_norm_band": 0.8873777302166519,
+        "h_norm_band_bins": 0.8892790983005223
+      },
+      {
+        "title": "1339 Salom",
+        "h_norm": 0.8641242637508323,
+        "h_norm_band": 0.892931417132998,
+        "h_norm_band_bins": 0.8948446850005692
+      },
+      {
+        "title": "13704 Du Cote De Chez Swann",
+        "h_norm": 0.8617613960844424,
+        "h_norm_band": 0.8751973328587387,
+        "h_norm_band_bins": 0.8770726022272631
+      },
+      {
+        "title": "13846 Vingt Mille Lieues Sous ",
+        "h_norm": 0.8571618467159965,
+        "h_norm_band": 0.8742545459188992,
+        "h_norm_band_bins": 0.8761277951950366
+      },
+      {
+        "title": "13951 Germinal",
+        "h_norm": 0.8126158860110873,
+        "h_norm_band": 0.8516618596984894,
+        "h_norm_band_bins": 0.853486700037772
+      },
+      {
+        "title": "14287 Notre Dame De Paris",
+        "h_norm": 0.855353852441695,
+        "h_norm_band": 0.8683580457475688,
+        "h_norm_band_bins": 0.8702186607002941
+      },
+      {
+        "title": "14721 Madame Bovary",
+        "h_norm": 0.9300034979832026,
+        "h_norm_band": 0.9319596253655409,
+        "h_norm_band_bins": 0.9339565182633299
+      },
+      {
+        "title": "16949 Le Rouge Et Le Noir",
+        "h_norm": 0.9154111915273778,
+        "h_norm_band": 0.9200944320671698,
+        "h_norm_band_bins": 0.9220659016316046
+      },
+      {
+        "title": "17498 Le Pere Goriot",
+        "h_norm": 0.9216487964421638,
+        "h_norm_band": 0.9247405591295995,
+        "h_norm_band_bins": 0.9267219838657829
+      },
+      {
+        "title": "17989 Les Trois Mousquetaires",
+        "h_norm": 0.8392331210179601,
+        "h_norm_band": 0.8621427315721994,
+        "h_norm_band_bins": 0.8639900290845587
+      },
+      {
+        "title": "19657 Candide",
+        "h_norm": 0.7998973440603111,
+        "h_norm_band": 0.8506725808729731,
+        "h_norm_band_bins": 0.8524953015025529
+      },
+      {
+        "title": "4650 Les Fleurs Du Mal",
+        "h_norm": 0.8529039541443273,
+        "h_norm_band": 0.8741528717481154,
+        "h_norm_band_bins": 0.8760259031688609
+      },
+      {
+        "title": "4791 Le Tour Du Monde En 80 Jo",
+        "h_norm": 0.8675400928675246,
+        "h_norm_band": 0.8772929578578366,
+        "h_norm_band_bins": 0.8791727174838393
+      },
+      {
+        "title": "5423 Le Comte De Monte Cristo ",
+        "h_norm": 0.7453425909467855,
+        "h_norm_band": 0.8765984235945702,
+        "h_norm_band_bins": 0.8784766950546697
+      },
+      {
+        "title": "5424 Le Comte De Monte Cristo ",
+        "h_norm": 0.8927798292738426,
+        "h_norm_band": 0.9251761975178016,
+        "h_norm_band_bins": 0.9271585556884167
+      },
+      {
+        "title": "55456 Nana",
+        "h_norm": 0.857737985833189,
+        "h_norm_band": 0.8753258593081157,
+        "h_norm_band_bins": 0.8772014040679199
+      },
+      {
+        "title": "58119 Le Petit Prince",
+        "h_norm": 0.9228714328115786,
+        "h_norm_band": 0.9288156132260815,
+        "h_norm_band_bins": 0.930805769506381
+      },
+      {
+        "title": "6099 Les Miserables Tome I Fan",
+        "h_norm": 0.8502884437053678,
+        "h_norm_band": 0.8773359451911683,
+        "h_norm_band_bins": 0.8792157969253463
+      },
+      {
+        "title": "6100 Les Miserables Tome Ii Co",
+        "h_norm": 0.9384446051316248,
+        "h_norm_band": 0.9382079647808182,
+        "h_norm_band_bins": 0.9402182458815528
+      },
+      {
+        "title": "6101 Les Miserables Tome Iii M",
+        "h_norm": 0.9350291921591515,
+        "h_norm_band": 0.9349741347918893,
+        "h_norm_band_bins": 0.9369774868240657
+      },
+      {
+        "title": "63146 L Etranger",
+        "h_norm": 0.9212134365701352,
+        "h_norm_band": 0.9267661330707107,
+        "h_norm_band_bins": 0.9287518979672473
+      },
+      {
+        "title": "796 La Chartreuse De Parme",
+        "h_norm": 0.856271620980112,
+        "h_norm_band": 0.8743830172208314,
+        "h_norm_band_bins": 0.8762565417700853
+      },
+      {
+        "title": "797 L Abbesse De Castro",
+        "h_norm": 0.8304137501005948,
+        "h_norm_band": 0.8453037248655887,
+        "h_norm_band_bins": 0.8471149417452863
+      },
+      {
+        "title": "798 Le Rouge Et Le Noir Chroni",
+        "h_norm": 0.8551166173940082,
+        "h_norm_band": 0.8658981959985304,
+        "h_norm_band_bins": 0.8677535402760462
+      },
+      {
+        "title": "799 De La Terre La Lune Trajet",
+        "h_norm": 0.8223443086106734,
+        "h_norm_band": 0.8597876955468902,
+        "h_norm_band_bins": 0.861629946966495
+      },
+      {
+        "title": "800 Le Tour Du Monde En Quatre",
+        "h_norm": 0.8467809288203768,
+        "h_norm_band": 0.8722414746033804,
+        "h_norm_band_bins": 0.8741104105083124
+      },
+      {
+        "title": "801 Les Cenci",
+        "h_norm": 0.8497116336419316,
+        "h_norm_band": 0.8650434932614114,
+        "h_norm_band_bins": 0.8668970061829555
+      }
+    ]
+  },
+  "german": {
+    "k_plateau": 138,
+    "n": 26,
+    "h_norm_mean": 0.8797123423257888,
+    "h_norm_band_mean": 0.8923262528828311,
+    "h_norm_band_bins_mean": 0.8950360618265315,
+    "h_norm_band_median": 0.8977228854085131,
+    "h_norm_band_std": 0.023789126400194233,
+    "books": [
+      {
+        "title": "2054 Iphigenie Auf Tauris",
+        "h_norm": 0.8933736597635694,
+        "h_norm_band": 0.8971582892244876,
+        "h_norm_band_bins": 0.8998827720559646
+      },
+      {
+        "title": "2146 Egmont",
+        "h_norm": 0.8613194866212889,
+        "h_norm_band": 0.8855460502517073,
+        "h_norm_band_bins": 0.8882352691324451
+      },
+      {
+        "title": "2174 Frau Und Kindern Auf Der ",
+        "h_norm": 0.8931133247384235,
+        "h_norm_band": 0.8977422998687286,
+        "h_norm_band_bins": 0.900468556218873
+      },
+      {
+        "title": "2187 Oberon",
+        "h_norm": 0.8730613708440003,
+        "h_norm_band": 0.8943596937846382,
+        "h_norm_band_bins": 0.897075677864758
+      },
+      {
+        "title": "2188 Die Aufzeichnungen Des Ma",
+        "h_norm": 0.8269210474570238,
+        "h_norm_band": 0.860711931470748,
+        "h_norm_band_bins": 0.8633257343061054
+      },
+      {
+        "title": "2189 Der G Wissenswurm Bauernk",
+        "h_norm": 0.8710737682836935,
+        "h_norm_band": 0.8922021418885473,
+        "h_norm_band_bins": 0.8949115739330123
+      },
+      {
+        "title": "2190 Isabella Von Gypten Kaise",
+        "h_norm": 0.7906342581910518,
+        "h_norm_band": 0.8436075741745614,
+        "h_norm_band_bins": 0.8461694346399307
+      },
+      {
+        "title": "2228 Reineke Fuchs",
+        "h_norm": 0.8856602767409311,
+        "h_norm_band": 0.891561810101634,
+        "h_norm_band_bins": 0.8942692975918539
+      },
+      {
+        "title": "2229 Faust Der Trag Die Erster",
+        "h_norm": 0.9041080665572598,
+        "h_norm_band": 0.9068374524216866,
+        "h_norm_band_bins": 0.9095913288554637
+      },
+      {
+        "title": "2229 Faust I",
+        "h_norm": 0.9041080665572598,
+        "h_norm_band": 0.9068374524216866,
+        "h_norm_band_bins": 0.9095913288554637
+      },
+      {
+        "title": "2230 Faust Der Trag Die Zweite",
+        "h_norm": 0.9179476868361971,
+        "h_norm_band": 0.9196299385829384,
+        "h_norm_band_bins": 0.922422663132301
+      },
+      {
+        "title": "2230 Faust Ii",
+        "h_norm": 0.9179476868361971,
+        "h_norm_band": 0.9196299385829384,
+        "h_norm_band_bins": 0.922422663132301
+      },
+      {
+        "title": "22367 Das Schloss",
+        "h_norm": 0.8163444495558718,
+        "h_norm_band": 0.8463607635284367,
+        "h_norm_band_bins": 0.8489309848563388
+      },
+      {
+        "title": "22381 Buddenbrooks",
+        "h_norm": 0.9028144741736037,
+        "h_norm_band": 0.9057987734544914,
+        "h_norm_band_bins": 0.9085494956366192
+      },
+      {
+        "title": "2407 Die Judenbuche",
+        "h_norm": 0.8311693723464081,
+        "h_norm_band": 0.8549034142241986,
+        "h_norm_band_bins": 0.8574995778026884
+      },
+      {
+        "title": "27352 Emilia Galotti",
+        "h_norm": 0.9141150516156109,
+        "h_norm_band": 0.917775356060174,
+        "h_norm_band_bins": 0.9205624486287551
+      },
+      {
+        "title": "29150 Der Tod In Venedig",
+        "h_norm": 0.8846018367489452,
+        "h_norm_band": 0.8981762252436183,
+        "h_norm_band_bins": 0.9009037993347324
+      },
+      {
+        "title": "30601 Die Leiden Des Jungen We",
+        "h_norm": 0.9171035865696857,
+        "h_norm_band": 0.920712475235079,
+        "h_norm_band_bins": 0.9235084872227439
+      },
+      {
+        "title": "30605 Wilhelm Meisters Lehrjah",
+        "h_norm": 0.8938318209823896,
+        "h_norm_band": 0.9004741943902272,
+        "h_norm_band_bins": 0.9032087469349347
+      },
+      {
+        "title": "44956 Im Westen Nichts Neues",
+        "h_norm": 0.8466397591494094,
+        "h_norm_band": 0.8619465821957495,
+        "h_norm_band_bins": 0.8645641344081606
+      },
+      {
+        "title": "5323 Maria Stuart",
+        "h_norm": 0.8385390141976563,
+        "h_norm_band": 0.857809563213386,
+        "h_norm_band_bins": 0.8604145521609571
+      },
+      {
+        "title": "5342 Effi Briest",
+        "h_norm": 0.9190128943536158,
+        "h_norm_band": 0.9219036771157338,
+        "h_norm_band_bins": 0.9247033065353633
+      },
+      {
+        "title": "6302 Die Raeuber",
+        "h_norm": 0.8945606458310399,
+        "h_norm_band": 0.9045789640555821,
+        "h_norm_band_bins": 0.9073259819306719
+      },
+      {
+        "title": "6498 Der Steppenwolf",
+        "h_norm": 0.8632367269061455,
+        "h_norm_band": 0.8777866393814798,
+        "h_norm_band_bins": 0.8804522945478183
+      },
+      {
+        "title": "7205 Also Sprach Zarathustra",
+        "h_norm": 0.8944389499198472,
+        "h_norm_band": 0.8977034709482977,
+        "h_norm_band_bins": 0.9004296093830995
+      },
+      {
+        "title": "7849 Der Prozess",
+        "h_norm": 0.9168436186933853,
+        "h_norm_band": 0.9187279031328509,
+        "h_norm_band_bins": 0.9215178883884605
+      }
+    ]
+  },
+  "italian": {
+    "k_plateau": 98,
+    "n": 25,
+    "h_norm_mean": 0.8833078009782599,
+    "h_norm_band_mean": 0.8973318193139999,
+    "h_norm_band_bins_mean": 0.8992545158430962,
+    "h_norm_band_median": 0.8918058255391936,
+    "h_norm_band_std": 0.013906129571215517,
+    "books": [
+      {
+        "title": "1000 La Divina Commedia Di Dan",
+        "h_norm": 0.8789151555143631,
+        "h_norm_band": 0.8922653187955426,
+        "h_norm_band_bins": 0.8941771594263505
+      },
+      {
+        "title": "1009 La Divina Commedia Di Dan",
+        "h_norm": 0.8831982715941102,
+        "h_norm_band": 0.8910844509933514,
+        "h_norm_band_bins": 0.8929937614002491
+      },
+      {
+        "title": "1010 La Divina Commedia Di Dan",
+        "h_norm": 0.8799421273473386,
+        "h_norm_band": 0.8861341350536613,
+        "h_norm_band_bins": 0.8880328385088492
+      },
+      {
+        "title": "1011 La Divina Commedia Di Dan",
+        "h_norm": 0.8761618086284391,
+        "h_norm_band": 0.88230167873426,
+        "h_norm_band_bins": 0.8841921704551656
+      },
+      {
+        "title": "1012 La Divina Commedia",
+        "h_norm": 0.8717804881436008,
+        "h_norm_band": 0.8864643112932059,
+        "h_norm_band_bins": 0.8883637222110025
+      },
+      {
+        "title": "1012 La Divina Commedia Di Dan",
+        "h_norm": 0.8717804881436008,
+        "h_norm_band": 0.8864643112932059,
+        "h_norm_band_bins": 0.8883637222110025
+      },
+      {
+        "title": "12914 Il Canzoniere",
+        "h_norm": 0.8992209862568601,
+        "h_norm_band": 0.9076924707461925,
+        "h_norm_band_bins": 0.9096373668542174
+      },
+      {
+        "title": "26502 Le Avventure Di Pinocchi",
+        "h_norm": 0.9138588057172414,
+        "h_norm_band": 0.9187617956600639,
+        "h_norm_band_bins": 0.9207304098087657
+      },
+      {
+        "title": "27867 I Malavoglia",
+        "h_norm": 0.8023087926961584,
+        "h_norm_band": 0.8862508867603668,
+        "h_norm_band_bins": 0.888149840377308
+      },
+      {
+        "title": "28287 La Gerusalemme Liberata",
+        "h_norm": 0.8858713443906561,
+        "h_norm_band": 0.8993495323775955,
+        "h_norm_band_bins": 0.9012765522236863
+      },
+      {
+        "title": "30718 I Vecchi E I Giovani",
+        "h_norm": 0.9041361516228305,
+        "h_norm_band": 0.9061223923438246,
+        "h_norm_band_bins": 0.9080639242734824
+      },
+      {
+        "title": "3091 Orlando Furioso",
+        "h_norm": 0.8875855526762435,
+        "h_norm_band": 0.9000638780290989,
+        "h_norm_band_bins": 0.9019924284905932
+      },
+      {
+        "title": "34245 Anna Karenina Trad Itali",
+        "h_norm": 0.8754709448967863,
+        "h_norm_band": 0.8855473934668133,
+        "h_norm_band_bins": 0.8874448397215006
+      },
+      {
+        "title": "35532 Pinocchio",
+        "h_norm": 0.8937076770629674,
+        "h_norm_band": 0.905202847615895,
+        "h_norm_band_bins": 0.9071424092538293
+      },
+      {
+        "title": "3601 Il Principe",
+        "h_norm": 0.9096411114048665,
+        "h_norm_band": 0.9151805637317465,
+        "h_norm_band_bins": 0.9171415044400886
+      },
+      {
+        "title": "36121 Mastro Don Gesualdo",
+        "h_norm": 0.903477031800381,
+        "h_norm_band": 0.9207081664504668,
+        "h_norm_band_bins": 0.9226809510523751
+      },
+      {
+        "title": "36289 Il Fu Mattia Pascal",
+        "h_norm": 0.911178471654263,
+        "h_norm_band": 0.916923654980948,
+        "h_norm_band_bins": 0.9188883305791298
+      },
+      {
+        "title": "3747 Orlando Furioso",
+        "h_norm": 0.874305555078177,
+        "h_norm_band": 0.8834732594472157,
+        "h_norm_band_bins": 0.8853662614927548
+      },
+      {
+        "title": "40694 Decameron",
+        "h_norm": 0.8791563251207418,
+        "h_norm_band": 0.890715551294962,
+        "h_norm_band_bins": 0.8926240712672018
+      },
+      {
+        "title": "43154 Senilita",
+        "h_norm": 0.8995447282861724,
+        "h_norm_band": 0.9152349092140734,
+        "h_norm_band_bins": 0.9171959663674896
+      },
+      {
+        "title": "6887 Il Sacro Macello Di Valte",
+        "h_norm": 0.8514649312689057,
+        "h_norm_band": 0.8714135967996941,
+        "h_norm_band_bins": 0.87328075882595
+      },
+      {
+        "title": "7700 I Promessi Sposi",
+        "h_norm": 0.8918606813358494,
+        "h_norm_band": 0.9194830014751845,
+        "h_norm_band_bins": 0.9214531609384374
+      },
+      {
+        "title": "997 Divina Commedia Di Dante I",
+        "h_norm": 0.881557292315927,
+        "h_norm_band": 0.8918058255391936,
+        "h_norm_band_bins": 0.8937166816221787
+      },
+      {
+        "title": "998 Divina Commedia Di Dante P",
+        "h_norm": 0.876232417068813,
+        "h_norm_band": 0.8857653697212542,
+        "h_norm_band_bins": 0.8876632830296877
+      },
+      {
+        "title": "999 Divina Commedia Di Dante P",
+        "h_norm": 0.8803378844312078,
+        "h_norm_band": 0.8888861810321808,
+        "h_norm_band_bins": 0.8907907812461116
+      }
+    ]
+  },
+  "polish": {
+    "k_plateau": 148,
+    "n": 19,
+    "h_norm_mean": 0.8943967763615966,
+    "h_norm_band_mean": 0.908146076566044,
+    "h_norm_band_bins_mean": 0.9111081941454325,
+    "h_norm_band_median": 0.9110844802809264,
+    "h_norm_band_std": 0.01097346467336838,
+    "books": [
+      {
+        "title": "15201 Szachy I Warcaby Droga D",
+        "h_norm": 0.8079611889613812,
+        "h_norm_band": 0.8837551252642345,
+        "h_norm_band_bins": 0.8866376864071716
+      },
+      {
+        "title": "27062 Romeo I Julia Tragedya W",
+        "h_norm": 0.8928892645008039,
+        "h_norm_band": 0.9092910554925677,
+        "h_norm_band_bins": 0.9122569076718119
+      },
+      {
+        "title": "27460 Emancypantki",
+        "h_norm": 0.8958925377688662,
+        "h_norm_band": 0.9070263888662189,
+        "h_norm_band_bins": 0.9099848543386342
+      },
+      {
+        "title": "28070 Pan Tadeusz",
+        "h_norm": 0.9097697686813444,
+        "h_norm_band": 0.9152320450664192,
+        "h_norm_band_bins": 0.9182172750859797
+      },
+      {
+        "title": "29705 Quo Vadis",
+        "h_norm": 0.9080042481532509,
+        "h_norm_band": 0.9098308822134864,
+        "h_norm_band_bins": 0.9127984951559613
+      },
+      {
+        "title": "29706 Ogniem I Mieczem",
+        "h_norm": 0.8998712264852899,
+        "h_norm_band": 0.9125624028642038,
+        "h_norm_band_bins": 0.9155389252602861
+      },
+      {
+        "title": "29707 Pan Wolodyjowski",
+        "h_norm": 0.9199870831681755,
+        "h_norm_band": 0.9199707458110358,
+        "h_norm_band_bins": 0.9229714321422419
+      },
+      {
+        "title": "29719 Wesele",
+        "h_norm": 0.9121238606420953,
+        "h_norm_band": 0.9193251666472989,
+        "h_norm_band_bins": 0.922323747280491
+      },
+      {
+        "title": "32851 Potop Tom I",
+        "h_norm": 0.8979728810082029,
+        "h_norm_band": 0.9176933478279377,
+        "h_norm_band_bins": 0.9206866059262029
+      },
+      {
+        "title": "32852 Potop Tom Ii",
+        "h_norm": 0.8861577112853395,
+        "h_norm_band": 0.9090474274497188,
+        "h_norm_band_bins": 0.9120124849826751
+      },
+      {
+        "title": "34039 Ch Opi Jesie",
+        "h_norm": 0.9055646433688008,
+        "h_norm_band": 0.9113161622865744,
+        "h_norm_band_bins": 0.9142886197957203
+      },
+      {
+        "title": "34040 Ch Opi Zima",
+        "h_norm": 0.8840575129089399,
+        "h_norm_band": 0.9009574204651906,
+        "h_norm_band_bins": 0.9038960906662796
+      },
+      {
+        "title": "37756 Ludzie Bezdomni",
+        "h_norm": 0.910533994339021,
+        "h_norm_band": 0.9130169254259891,
+        "h_norm_band_bins": 0.9159949303470807
+      },
+      {
+        "title": "48158 Krzyzacy Tom I",
+        "h_norm": 0.902897030908725,
+        "h_norm_band": 0.9102298929968364,
+        "h_norm_band_bins": 0.9131988074004819
+      },
+      {
+        "title": "48303 Faraon Tom I",
+        "h_norm": 0.9069540731132265,
+        "h_norm_band": 0.916852492469829,
+        "h_norm_band_bins": 0.9198430079339496
+      },
+      {
+        "title": "48304 Faraon Tom Ii",
+        "h_norm": 0.9051307170095934,
+        "h_norm_band": 0.9110844802809264,
+        "h_norm_band_bins": 0.9140561821084044
+      },
+      {
+        "title": "48305 Faraon Tom Iii",
+        "h_norm": 0.9088791598771196,
+        "h_norm_band": 0.9144241576067014,
+        "h_norm_band_bins": 0.9174067525241474
+      },
+      {
+        "title": "6000 Ironia Pozor W",
+        "h_norm": 0.8844245819358193,
+        "h_norm_band": 0.8942368033354114,
+        "h_norm_band_bins": 0.8971535527699431
+      },
+      {
+        "title": "8119 Sklepy Cynamonowe",
+        "h_norm": 0.8544672667543395,
+        "h_norm_band": 0.878922532384254,
+        "h_norm_band_bins": 0.8817893309657561
+      }
+    ]
+  },
+  "portuguese": {
+    "k_plateau": 98,
+    "n": 19,
+    "h_norm_mean": 0.8766780369983578,
+    "h_norm_band_mean": 0.893775596571563,
+    "h_norm_band_bins_mean": 0.8956906732470259,
+    "h_norm_band_median": 0.8968190583402718,
+    "h_norm_band_std": 0.017719006532577422,
+    "books": [
+      {
+        "title": "11299 O Cancioneiro Portuguez ",
+        "h_norm": 0.8589870042735863,
+        "h_norm_band": 0.8800984210275352,
+        "h_norm_band_bins": 0.8819841918683223
+      },
+      {
+        "title": "12579 As Farpas Chronica Mensa",
+        "h_norm": 0.8462533955339168,
+        "h_norm_band": 0.8662931440125513,
+        "h_norm_band_bins": 0.8681493345379763
+      },
+      {
+        "title": "13092 As Farpas Chronica Mensa",
+        "h_norm": 0.8403949079867544,
+        "h_norm_band": 0.868306521458322,
+        "h_norm_band_bins": 0.870167026010892
+      },
+      {
+        "title": "13093 As Farpas Chronica Mensa",
+        "h_norm": 0.840298342970751,
+        "h_norm_band": 0.8690021598010663,
+        "h_norm_band_bins": 0.8708641548852305
+      },
+      {
+        "title": "13630 As Farpas Chronica Mensa",
+        "h_norm": 0.832504138176537,
+        "h_norm_band": 0.871298360140217,
+        "h_norm_band_bins": 0.8731652752509835
+      },
+      {
+        "title": "16384 A Ilustre Casa De Ramire",
+        "h_norm": 0.8881403050647747,
+        "h_norm_band": 0.9046852775574066,
+        "h_norm_band_bins": 0.9066237302074128
+      },
+      {
+        "title": "17478 Os Lusiadas",
+        "h_norm": 0.8692510126330061,
+        "h_norm_band": 0.8945629169239221,
+        "h_norm_band_bins": 0.8964796805763499
+      },
+      {
+        "title": "23610 A Rel Quia",
+        "h_norm": 0.8854243328808431,
+        "h_norm_band": 0.8968190583402718,
+        "h_norm_band_bins": 0.8987406561857785
+      },
+      {
+        "title": "27364 Amor De Perdicao",
+        "h_norm": 0.8812065328562455,
+        "h_norm_band": 0.8979313014987128,
+        "h_norm_band_bins": 0.8998552825273566
+      },
+      {
+        "title": "2837 Lendas Do Sul",
+        "h_norm": 0.8657740824908079,
+        "h_norm_band": 0.8823377981659899,
+        "h_norm_band_bins": 0.8842283672793433
+      },
+      {
+        "title": "3333 Os Lus Adas",
+        "h_norm": 0.928907786640014,
+        "h_norm_band": 0.9283305074055024,
+        "h_norm_band_bins": 0.9303196242584046
+      },
+      {
+        "title": "55578 Memorias Postumas De Bra",
+        "h_norm": 0.9099975334487177,
+        "h_norm_band": 0.915434057351631,
+        "h_norm_band_bins": 0.9173955412161308
+      },
+      {
+        "title": "55681 Helena",
+        "h_norm": 0.8846946172074235,
+        "h_norm_band": 0.8991390365901012,
+        "h_norm_band_bins": 0.9010656054107059
+      },
+      {
+        "title": "55684 Dom Casmurro",
+        "h_norm": 0.894673476460879,
+        "h_norm_band": 0.9029002653115631,
+        "h_norm_band_bins": 0.9048348932483746
+      },
+      {
+        "title": "55700 O Cortico",
+        "h_norm": 0.9070630394418335,
+        "h_norm_band": 0.9112355895489059,
+        "h_norm_band_bins": 0.9131880774329912
+      },
+      {
+        "title": "55752 Quincas Borba",
+        "h_norm": 0.8944113735964748,
+        "h_norm_band": 0.8992180058383741,
+        "h_norm_band_bins": 0.9011447438649474
+      },
+      {
+        "title": "57241 O Primo Basilio",
+        "h_norm": 0.8699432619576644,
+        "h_norm_band": 0.8900960665443991,
+        "h_norm_band_bins": 0.8920032591579583
+      },
+      {
+        "title": "8698 O Livro De Cesario Verde",
+        "h_norm": 0.8906202261750833,
+        "h_norm_band": 0.9209856437532646,
+        "h_norm_band_bins": 0.9229590229007307
+      },
+      {
+        "title": "9654 Lendas E Narrativas Tomo ",
+        "h_norm": 0.8683373331734843,
+        "h_norm_band": 0.8830622035899576,
+        "h_norm_band_bins": 0.8849543248736056
+      }
+    ]
+  },
+  "russian": {
+    "k_plateau": 113,
+    "n": 3,
+    "h_norm_mean": 0.9231047175977386,
+    "h_norm_band_mean": 0.9272393544157929,
+    "h_norm_band_bins_mean": 0.9295360599981128,
+    "h_norm_band_median": 0.9276707863493403,
+    "h_norm_band_std": 0.019817524682533005,
+    "books": [
+      {
+        "title": "14741 ",
+        "h_norm": 0.8919415286848272,
+        "h_norm_band": 0.9027551027148788,
+        "h_norm_band_bins": 0.9049911625563848
+      },
+      {
+        "title": "16527 1001",
+        "h_norm": 0.9246545199197138,
+        "h_norm_band": 0.9276707863493403,
+        "h_norm_band_bins": 0.9299685605577118
+      },
+      {
+        "title": "28054 Bratja Karamazovy Russia",
+        "h_norm": 0.9527181041886749,
+        "h_norm_band": 0.9512921741831594,
+        "h_norm_band_bins": 0.9536484568802417
+      }
+    ]
+  },
+  "spanish": {
+    "k_plateau": 92,
+    "n": 26,
+    "h_norm_mean": 0.8618661131937346,
+    "h_norm_band_mean": 0.8863086440625961,
+    "h_norm_band_bins_mean": 0.8880895320005208,
+    "h_norm_band_median": 0.8875285041815801,
+    "h_norm_band_std": 0.016949687352614335,
+    "books": [
+      {
+        "title": "12455 La Celestina",
+        "h_norm": 0.8837292367482847,
+        "h_norm_band": 0.8949335334481532,
+        "h_norm_band_bins": 0.8967317516485949
+      },
+      {
+        "title": "13618 Los Intereses Creados",
+        "h_norm": 0.8756291983534304,
+        "h_norm_band": 0.8958237347167206,
+        "h_norm_band_bins": 0.8976237416266735
+      },
+      {
+        "title": "15353 Don Juan Tenorio",
+        "h_norm": 0.8903750179644059,
+        "h_norm_band": 0.9172291031337004,
+        "h_norm_band_bins": 0.9190721205261483
+      },
+      {
+        "title": "15725 La Regenta Tomo I",
+        "h_norm": 0.851726526091977,
+        "h_norm_band": 0.8755711330469176,
+        "h_norm_band_bins": 0.8773304457649916
+      },
+      {
+        "title": "15726 La Regenta Tomo Ii",
+        "h_norm": 0.90477971429664,
+        "h_norm_band": 0.9105800958328485,
+        "h_norm_band_bins": 0.9124097531650277
+      },
+      {
+        "title": "1619 La Celestina",
+        "h_norm": 0.7984047120347819,
+        "h_norm_band": 0.8572864551240478,
+        "h_norm_band_bins": 0.859009027861552
+      },
+      {
+        "title": "16625 El Sombrero De Tres Pico",
+        "h_norm": 0.7607201114649373,
+        "h_norm_band": 0.8445343148350513,
+        "h_norm_band_bins": 0.8462312642945072
+      },
+      {
+        "title": "21400 Cantar De Mio Cid",
+        "h_norm": 0.87243944641278,
+        "h_norm_band": 0.8938446564474151,
+        "h_norm_band_bins": 0.895640686732925
+      },
+      {
+        "title": "21537 Cien Anos De Soledad Exc",
+        "h_norm": 0.8753941864498437,
+        "h_norm_band": 0.8958892805675046,
+        "h_norm_band_bins": 0.8976894191808047
+      },
+      {
+        "title": "2367 Los Bombardeos Atomicos D",
+        "h_norm": 0.8653733940126416,
+        "h_norm_band": 0.8812255235660279,
+        "h_norm_band_bins": 0.8829961978294724
+      },
+      {
+        "title": "24536 Pepita Jimenez",
+        "h_norm": 0.8612308554895429,
+        "h_norm_band": 0.8810859939700381,
+        "h_norm_band_bins": 0.8828563878722606
+      },
+      {
+        "title": "320 Vida De Lazarillo De Torme",
+        "h_norm": 0.8270490113737883,
+        "h_norm_band": 0.8509236410660416,
+        "h_norm_band_bins": 0.8526334288003948
+      },
+      {
+        "title": "44291 Rimas Y Leyendas",
+        "h_norm": 0.8671841519247171,
+        "h_norm_band": 0.8869668351189551,
+        "h_norm_band_bins": 0.8887490455809474
+      },
+      {
+        "title": "46852 El Arbol De La Ciencia",
+        "h_norm": 0.892807940245115,
+        "h_norm_band": 0.9024951371519142,
+        "h_norm_band_bins": 0.904308549121386
+      },
+      {
+        "title": "47577 Niebla",
+        "h_norm": 0.8611334325311795,
+        "h_norm_band": 0.891703776579783,
+        "h_norm_band_bins": 0.8934955051277905
+      },
+      {
+        "title": "49228 El Lazarillo De Tormes",
+        "h_norm": 0.8803275668754962,
+        "h_norm_band": 0.8994654517435227,
+        "h_norm_band_bins": 0.901272776070461
+      },
+      {
+        "title": "49836 Fortunata Y Jacinta",
+        "h_norm": 0.8125109583117159,
+        "h_norm_band": 0.8731343654285485,
+        "h_norm_band_bins": 0.8748887818725218
+      },
+      {
+        "title": "50751 Bodas De Sangre",
+        "h_norm": 0.8842169700789608,
+        "h_norm_band": 0.8970518721307759,
+        "h_norm_band_bins": 0.8988543467760052
+      },
+      {
+        "title": "55711 La Casa De Bernarda Alba",
+        "h_norm": 0.8965333692009569,
+        "h_norm_band": 0.9106931628256054,
+        "h_norm_band_bins": 0.9125230473468625
+      },
+      {
+        "title": "57838 Platero Y Yo",
+        "h_norm": 0.8763444807484193,
+        "h_norm_band": 0.8880901732442052,
+        "h_norm_band_bins": 0.8898746408649547
+      },
+      {
+        "title": "5877 Reina Valera New Testamen",
+        "h_norm": 0.874021808725586,
+        "h_norm_band": 0.8888562979888106,
+        "h_norm_band_bins": 0.8906423050081947
+      },
+      {
+        "title": "5878 Reina Valera New Testamen",
+        "h_norm": 0.8525266959032142,
+        "h_norm_band": 0.8811683820558686,
+        "h_norm_band_bins": 0.8829389415030728
+      },
+      {
+        "title": "5879 Reina Valera New Testamen",
+        "h_norm": 0.8482795542410912,
+        "h_norm_band": 0.8847061240120838,
+        "h_norm_band_bins": 0.8864837919558818
+      },
+      {
+        "title": "5880 Reina Valera New Testamen",
+        "h_norm": 0.8654702669254523,
+        "h_norm_band": 0.8830758296248153,
+        "h_norm_band_bins": 0.8848502217666352
+      },
+      {
+        "title": "5881 Reina Valera New Testamen",
+        "h_norm": 0.873496276577115,
+        "h_norm_band": 0.8857103883513505,
+        "h_norm_band_bins": 0.8874900741951885
+      },
+      {
+        "title": "5985 Zadig El Destino Historia",
+        "h_norm": 0.8568140600550292,
+        "h_norm_band": 0.8719794836167954,
+        "h_norm_band_bins": 0.8737315795202866
+      }
+    ]
+  },
+  "swedish": {
+    "k_plateau": 98,
+    "n": 14,
+    "h_norm_mean": 0.8663224267986314,
+    "h_norm_band_mean": 0.8868492043645342,
+    "h_norm_band_bins_mean": 0.8887494399856973,
+    "h_norm_band_median": 0.888166797022607,
+    "h_norm_band_std": 0.01130873074855246,
+    "books": [
+      {
+        "title": "10117 Den Siste Atenaren",
+        "h_norm": 0.8326511714406993,
+        "h_norm_band": 0.8805733534462092,
+        "h_norm_band_bins": 0.882460141916031
+      },
+      {
+        "title": "12119 Krigskorrespondenter Och",
+        "h_norm": 0.8621797022242419,
+        "h_norm_band": 0.8898684218232391,
+        "h_norm_band_bins": 0.8917751266666046
+      },
+      {
+        "title": "12499 F Rbannelse Ver De Otrog",
+        "h_norm": 0.9025718153264797,
+        "h_norm_band": 0.9071530009584943,
+        "h_norm_band_bins": 0.9090967411544406
+      },
+      {
+        "title": "12613 Eros Begravning",
+        "h_norm": 0.858404595945479,
+        "h_norm_band": 0.8925074341473438,
+        "h_norm_band_bins": 0.8944197935543018
+      },
+      {
+        "title": "13100 Samlade Arbeten I",
+        "h_norm": 0.8671429123564318,
+        "h_norm_band": 0.8722281228515839,
+        "h_norm_band_bins": 0.8740970301479608
+      },
+      {
+        "title": "13101 Samlade Arbeten Ii",
+        "h_norm": 0.9063393742288162,
+        "h_norm_band": 0.909830356415464,
+        "h_norm_band_bins": 0.9117798333321344
+      },
+      {
+        "title": "2100 Bibeln Gamla Och Nya Test",
+        "h_norm": 0.8768211238422852,
+        "h_norm_band": 0.8911001072262921,
+        "h_norm_band_bins": 0.8930094511795147
+      },
+      {
+        "title": "36370 G Sta Berlings Saga",
+        "h_norm": 0.8642186388848827,
+        "h_norm_band": 0.886579399617081,
+        "h_norm_band_bins": 0.8884790571325308
+      },
+      {
+        "title": "44227 Nils Holgerssons Underba",
+        "h_norm": 0.8864038380373847,
+        "h_norm_band": 0.8920839873386683,
+        "h_norm_band_bins": 0.8939954394338696
+      },
+      {
+        "title": "58530 Kejsarn Av Portugallien",
+        "h_norm": 0.8311107780365493,
+        "h_norm_band": 0.8727248142609568,
+        "h_norm_band_bins": 0.8745947858089609
+      },
+      {
+        "title": "63534 Hems Borna",
+        "h_norm": 0.8595535767535787,
+        "h_norm_band": 0.880747521111306,
+        "h_norm_band_bins": 0.8826346827670083
+      },
+      {
+        "title": "9827 De Vandrande Dj Knarne",
+        "h_norm": 0.8735359264594591,
+        "h_norm_band": 0.889754194428133,
+        "h_norm_band_bins": 0.8916606545185416
+      },
+      {
+        "title": "9828 Barnen Ifr N Frostmofj Ll",
+        "h_norm": 0.8483352538545279,
+        "h_norm_band": 0.876221065562208,
+        "h_norm_band_bins": 0.8780985284641315
+      },
+      {
+        "title": "9951 Arbetets Herrav Lde",
+        "h_norm": 0.8592452677900242,
+        "h_norm_band": 0.8745170819164998,
+        "h_norm_band_bins": 0.8763908937237327
+      }
+    ]
+  }
+}

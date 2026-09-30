@@ -1,0 +1,287 @@
+language,title,filename,n_tokens,mean_depth,beta,h_tilde
+dutch,11024 Max Havelaar,11024_max_havelaar.txt,10000,2.181,0.9275,0.8603
+dutch,11851 Bartje,11851_bartje.txt,10000,0.9181,0.3765,0.9391
+dutch,18066 Multatulis Max Havelaar,18066_multatulis_max_havelaar.txt,10000,2.3781,0.8969,0.8806
+dutch,19027 De Hond Van De Baskervil,19027_de_hond_van_de_baskervilles.txt,10000,1.3422,0.7684,0.8773
+dutch,20781 Camera Obscura,20781_camera_obscura.txt,10000,1.4156,0.7797,0.8796
+dutch,25964 De Kleine Johannes,25964_de_kleine_johannes.txt,10000,1.3935,0.6643,0.9123
+dutch,26893 Het Achterhuis,26893_het_achterhuis.txt,10000,1.5994,0.8227,0.8786
+dutch,3455 Nederlandsche Sagen En Le,3455_nederlandsche_sagen_en_legenden.txt,10000,1.9148,0.788,0.891
+dutch,6712 Akbar Een Oosterse Roman,6712_akbar_een_oosterse_roman.txt,10000,2.7301,1.0291,0.8308
+dutch,6748 Fulco De Minstreel Een Hi,6748_fulco_de_minstreel_een_historisch_verhaal_uit_den_tijd_van_graaf_jan_i_voor_jon.txt,10000,2.1163,0.9054,0.8655
+dutch,6922 De Liereman,6922_de_liereman.txt,10000,1.7206,0.6516,0.9165
+dutch,6959 Myne Eerste Vlerken,6959_myne_eerste_vlerken.txt,10000,1.791,0.7221,0.9085
+dutch,8096 Reize Naar Surinamen En D,8096_reize_naar_surinamen_en_door_de_binnenste_gedeelten_van_guiana_deel_1.txt,10000,2.7632,1.0053,0.8433
+dutch,8097 Reize Naar Surinamen En D,8097_reize_naar_surinamen_en_door_de_binnenste_gedeelten_van_guiana_deel_2.txt,10000,2.5333,0.907,0.8764
+english,100 Complete Works Of Shakespe,100_complete_works_of_shakespeare.txt,10000,3.0013,0.9799,0.8696
+english,1023 Bleak House,1023_bleak_house.txt,10000,3.4251,1.1562,0.822
+english,103 Around The World In 80 Day,103_around_the_world_in_80_days_alt.txt,10000,3.0034,1.0708,0.853
+english,10616 The Art Of War,10616_the_art_of_war.txt,10000,3.8062,1.1076,0.8435
+english,1184 The Count Of Monte Cristo,1184_the_count_of_monte_cristo.txt,10000,2.9363,1.0917,0.8263
+english,11 Alice In Wonderland,11_alice_in_wonderland.txt,10000,2.9897,1.0175,0.8546
+english,120 Treasure Island,120_treasure_island.txt,10000,2.9689,1.0154,0.8577
+english,1232 The Prince,1232_the_prince.txt,10000,3.7958,1.1432,0.8341
+english,1250 Anthem,1250_anthem.txt,10000,2.6397,0.9738,0.8838
+english,1260 Jane Eyre,1260_jane_eyre.txt,10000,3.3717,1.1123,0.8251
+english,1322 Leaves Of Grass,1322_leaves_of_grass.txt,10000,3.7647,1.1775,0.748
+english,1342 Pride And Prejudice,1342_pride_and_prejudice.txt,10000,3.2987,1.1345,0.8285
+english,135 Les Miserables,135_les_miserables.txt,10000,3.6097,1.2153,0.7922
+english,1399 Anna Karenina,1399_anna_karenina.txt,10000,3.1289,1.0949,0.8441
+english,1400 Great Expectations,1400_great_expectations.txt,10000,3.0569,1.0394,0.8522
+english,1497 Republic,1497_republic.txt,10000,3.705,1.2026,0.8081
+english,1513 Romeo And Juliet,1513_romeo_and_juliet.txt,10000,2.4015,0.9912,0.8311
+english,1514 The Tempest,1514_the_tempest.txt,10000,2.5084,1.0601,0.8163
+english,1524 Hamlet,1524_hamlet.txt,10000,2.5479,1.0069,0.8395
+english,1532 Othello,1532_othello.txt,10000,2.4341,0.9157,0.8783
+english,1533 Macbeth,1533_macbeth.txt,10000,2.3287,0.9066,0.8796
+english,160 The Jungle Book,160_the_jungle_book.txt,10000,2.9382,1.0782,0.8637
+english,16328 Beowulf,16328_beowulf.txt,10000,2.693,0.9566,0.8825
+english,164 20000 Leagues Under The Se,164_20000_leagues_under_the_sea.txt,10000,3.1554,1.1247,0.8402
+english,1661 Sherlock Holmes Adventure,1661_sherlock_holmes_adventures.txt,10000,2.794,1.0868,0.8526
+english,16 Peter Pan,16_peter_pan.txt,10000,2.6634,1.0029,0.8567
+english,1727 The Odyssey,1727_the_odyssey.txt,10000,3.5626,1.1127,0.8454
+english,174 The Picture Of Dorian Gray,174_the_picture_of_dorian_gray.txt,10000,2.5735,1.0301,0.8545
+english,19337 A Doll S House,19337_a_doll_s_house.txt,10000,2.8465,1.0471,0.8634
+english,1998 Thus Spake Zarathustra Al,1998_thus_spake_zarathustra_alt.txt,10000,3.0421,1.0997,0.8061
+english,209 The Turn Of The Screw,209_the_turn_of_the_screw.txt,10000,3.2489,1.1376,0.8192
+english,2147 The Works Of Edgar Allan ,2147_the_works_of_edgar_allan_poe_vol_1.txt,10000,3.5096,1.1453,0.851
+english,2148 The Works Of Edgar Allan ,2148_the_works_of_edgar_allan_poe_vol_2.txt,10000,3.539,1.1872,0.8158
+english,215 The Call Of The Wild,215_the_call_of_the_wild.txt,10000,2.8771,1.0345,0.864
+english,2264 A Midsummer Night S Dream,2264_a_midsummer_night_s_dream.txt,10000,2.5513,0.9659,0.8677
+english,2267 King Lear,2267_king_lear.txt,10000,2.4788,0.9238,0.8794
+english,236 The Jungle Book 2,236_the_jungle_book_2.txt,10000,2.8327,1.0666,0.8498
+english,23 Narrative Of Frederick Doug,23_narrative_of_frederick_douglass.txt,10000,3.4907,1.159,0.8299
+english,244 A Study In Scarlet,244_a_study_in_scarlet.txt,10000,2.766,1.0372,0.867
+english,2500 Siddhartha,2500_siddhartha.txt,10000,3.1017,1.0773,0.8422
+english,25344 The Scarlet Letter,25344_the_scarlet_letter.txt,10000,3.6251,1.127,0.8511
+english,2542 Paradise Lost,2542_paradise_lost.txt,10000,1.9897,0.9006,0.8773
+english,2554 Crime And Punishment,2554_crime_and_punishment.txt,10000,2.7866,1.0323,0.864
+english,2591 Grimm S Fairy Tales,2591_grimm_s_fairy_tales.txt,10000,3.0368,1.0215,0.8559
+english,2600 War And Peace,2600_war_and_peace.txt,10000,3.1631,1.086,0.8262
+english,2680 Meditations On First Phil,2680_meditations_on_first_philosophy.txt,10000,3.308,1.0613,0.8561
+english,2701 Moby Dick,2701_moby_dick.txt,10000,2.9632,1.1083,0.8412
+english,28054 The Brothers Karamazov,28054_the_brothers_karamazov.txt,10000,3.23,1.1378,0.8276
+english,2814 Dubliners,2814_dubliners.txt,10000,2.8043,1.0428,0.8617
+english,28233 The King In Yellow,28233_the_king_in_yellow.txt,10000,2.73,0.9798,0.8669
+english,2852 The Hound Of The Baskervi,2852_the_hound_of_the_baskervilles.txt,10000,3.0306,1.0749,0.8566
+english,30254 The Romance Of Lust,30254_the_romance_of_lust.txt,10000,3.0969,1.0829,0.853
+english,31284 The Importance Of Being ,31284_the_importance_of_being_earnest.txt,10000,2.1788,0.7491,0.9029
+english,3176 The Awakening,3176_the_awakening.txt,10000,3.6371,1.2005,0.8179
+english,3207 Leviathan,3207_leviathan.txt,10000,3.449,1.0205,0.8581
+english,3296 On The Origin Of Species,3296_on_the_origin_of_species.txt,10000,3.0297,1.0468,0.8535
+english,345 Dracula,345_dracula.txt,10000,3.0818,1.1098,0.8499
+english,35 The Time Machine,35_the_time_machine.txt,10000,2.6851,0.9887,0.8762
+english,3600 Meditations,3600_meditations.txt,10000,3.9215,1.1702,0.8344
+english,36 The War Of The Worlds,36_the_war_of_the_worlds.txt,10000,2.936,1.0369,0.8706
+english,4085 The Castle Of Otranto,4085_the_castle_of_otranto.txt,10000,4.0342,1.1408,0.84
+english,408 Souls Of Black Folk,408_souls_of_black_folk.txt,10000,3.4805,1.0944,0.8587
+english,4217 A Portrait Of The Artist ,4217_a_portrait_of_the_artist_as_a_young_man.txt,10000,2.6049,1.0499,0.8498
+english,4300 Ulysses,4300_ulysses.txt,10000,2.3139,0.9663,0.8787
+english,432 The Portrait Of A Lady,432_the_portrait_of_a_lady.txt,10000,3.8559,1.1612,0.832
+english,4363 Beyond Good And Evil,4363_beyond_good_and_evil.txt,10000,3.9259,1.2309,0.8059
+english,43 The Strange Case Of Dr Jeky,43_the_strange_case_of_dr_jekyll_and_mr_hyde.txt,10000,2.9863,1.031,0.8512
+english,45 Anne Of Green Gables,45_anne_of_green_gables.txt,10000,2.7117,1.0456,0.8524
+english,46 A Christmas Carol,46_a_christmas_carol.txt,10000,2.9148,1.0815,0.8482
+english,4705 A Treatise Of Human Natur,4705_a_treatise_of_human_nature.txt,10000,3.3515,1.0569,0.8705
+english,514 Little Women,514_little_women.txt,10000,3.0102,1.0522,0.8583
+english,5200 Metamorphosis,5200_metamorphosis.txt,10000,3.1378,1.0511,0.858
+english,5230 The Invisible Man,5230_the_invisible_man.txt,10000,2.7069,1.0836,0.8359
+english,55 The Wonderful Wizard Of Oz,55_the_wonderful_wizard_of_oz.txt,10000,2.7081,0.9643,0.8794
+english,5827 The Problems Of Philosoph,5827_the_problems_of_philosophy.txt,10000,3.5585,1.1096,0.8577
+english,58585 The Rime Of The Ancient ,58585_the_rime_of_the_ancient_mariner.txt,10000,2.7377,0.8971,0.894
+english,6130 The Iliad,6130_the_iliad.txt,10000,3.8782,1.1513,0.846
+english,64317 The Great Gatsby,64317_the_great_gatsby.txt,10000,2.833,1.0254,0.8657
+english,6688 Autobiography Of Benjamin,6688_autobiography_of_benjamin_franklin.txt,10000,3.0791,1.0317,0.858
+english,7205 Thus Spake Zarathustra,7205_thus_spake_zarathustra.txt,10000,2.0026,0.7118,0.9091
+english,730 Oliver Twist,730_oliver_twist.txt,10000,3.3901,1.146,0.8082
+english,7370 Second Treatise Of Govern,7370_second_treatise_of_government.txt,10000,4.0531,1.11,0.8254
+english,73 Tom Sawyer Abroad,73_tom_sawyer_abroad.txt,10000,2.5993,1.0099,0.8799
+english,74 Tom Sawyer,74_tom_sawyer.txt,10000,2.9194,1.1132,0.8268
+english,766 David Copperfield,766_david_copperfield.txt,10000,3.1816,1.0819,0.8355
+english,768 Wuthering Heights,768_wuthering_heights.txt,10000,3.0193,1.0569,0.8608
+english,76 Huckleberry Finn,76_huckleberry_finn.txt,10000,2.6733,0.9665,0.8595
+english,7849 The Trial,7849_the_trial.txt,10000,3.0051,1.0375,0.8641
+english,786 Around The World In 80 Day,786_around_the_world_in_80_days.txt,10000,3.1064,1.1135,0.822
+english,805 This Side Of Paradise,805_this_side_of_paradise.txt,10000,3.089,1.1029,0.8485
+english,829 Gulliver S Travels,829_gulliver_s_travels.txt,10000,3.5891,1.08,0.856
+english,844 The Importance Of Being Ea,844_the_importance_of_being_earnest_alt.txt,10000,2.0705,0.9286,0.8784
+english,8492 The Communist Manifesto,8492_the_communist_manifesto.txt,10000,2.9851,1.0709,0.8607
+english,84 Frankenstein,84_frankenstein.txt,10000,3.4088,1.1976,0.8202
+english,8800 The Divine Comedy,8800_the_divine_comedy.txt,10000,3.4988,1.4144,0.61
+english,910 White Fang,910_white_fang.txt,10000,2.6399,1.0264,0.8679
+english,98 A Tale Of Two Cities,98_a_tale_of_two_cities.txt,10000,3.4744,1.2129,0.7642
+english,996 Don Quixote,996_don_quixote.txt,10000,4.3091,1.2443,0.8048
+finnish,10481 Rautatie,10481_rautatie.txt,10000,1.8543,0.8604,0.8766
+finnish,10492 Agnes,10492_agnes.txt,10000,1.8158,0.8047,0.8933
+finnish,11940 Seitsem N Veljest,11940_seitsem_n_veljest.txt,10000,1.9499,0.8364,0.8804
+finnish,34721 Juha,34721_juha.txt,10000,1.9938,0.987,0.8499
+finnish,42044 Hurskas Kurjuus,42044_hurskas_kurjuus.txt,10000,1.8536,0.9094,0.8707
+finnish,44818 Meek Heritage Finnish,44818_meek_heritage_finnish.txt,10000,1.8544,0.9053,0.8742
+finnish,45654 Maa,45654_maa.txt,10000,2.087,0.9921,0.8339
+finnish,57019 Rautatie,57019_rautatie.txt,10000,2.3742,0.9865,0.8363
+finnish,7000 Kalevala,7000_kalevala.txt,10000,2.1538,0.695,0.9095
+finnish,7078 Kanteletar Suomen Kansan ,7078_kanteletar_suomen_kansan_wanhoja_lauluja_ja_wirsi.txt,10000,1.8432,0.8444,0.8362
+finnish,8451 Aarniomets N Syd N,8451_aarniomets_n_syd_n.txt,10000,2.4667,0.9128,0.8778
+finnish,8494 Omatunto Saaristokertomus,8494_omatunto_saaristokertomus.txt,10000,1.8683,0.8341,0.8788
+finnish,9082 Muistatko Kukkia Kev Isel,9082_muistatko_kukkia_kev_iselt_niitylt.txt,10000,2.2578,0.9094,0.8631
+french,1256 Cyrano De Bergerac,1256_cyrano_de_bergerac.txt,10000,2.1782,0.8674,0.8576
+french,1339 Salom,1339_salom.txt,10000,1.8247,0.8556,0.8641
+french,13704 Du Cote De Chez Swann,13704_du_cote_de_chez_swann.txt,10000,2.6507,0.9377,0.8618
+french,13846 Vingt Mille Lieues Sous ,13846_vingt_mille_lieues_sous_les_mers.txt,10000,2.7326,0.9518,0.8572
+french,13951 Germinal,13951_germinal.txt,10000,3.1331,1.0614,0.8126
+french,14287 Notre Dame De Paris,14287_notre_dame_de_paris.txt,10000,2.6925,0.9445,0.8554
+french,14721 Madame Bovary,14721_madame_bovary.txt,10000,1.7383,0.5405,0.93
+french,16949 Le Rouge Et Le Noir,16949_le_rouge_et_le_noir.txt,10000,1.8722,0.6394,0.9154
+french,17498 Le Pere Goriot,17498_le_pere_goriot.txt,10000,1.8785,0.6087,0.9216
+french,17989 Les Trois Mousquetaires,17989_les_trois_mousquetaires.txt,10000,2.7579,1.0043,0.8392
+french,19657 Candide,19657_candide.txt,10000,3.0195,1.0848,0.7999
+french,4650 Les Fleurs Du Mal,4650_les_fleurs_du_mal.txt,10000,2.5461,0.941,0.8529
+french,4791 Le Tour Du Monde En 80 Jo,4791_le_tour_du_monde_en_80_jours.txt,10000,2.5726,0.9229,0.8675
+french,5423 Le Comte De Monte Cristo ,5423_le_comte_de_monte_cristo_tome_i.txt,10000,2.8043,1.0542,0.7453
+french,5424 Le Comte De Monte Cristo ,5424_le_comte_de_monte_cristo_tome_ii.txt,10000,1.3443,0.6642,0.8928
+french,55456 Nana,55456_nana.txt,10000,2.5148,0.9464,0.8577
+french,58119 Le Petit Prince,58119_le_petit_prince.txt,10000,1.8224,0.5821,0.9229
+french,6099 Les Miserables Tome I Fan,6099_les_miserables_tome_i_fantine.txt,10000,2.8718,0.94,0.8503
+french,6100 Les Miserables Tome Ii Co,6100_les_miserables_tome_ii_cosette.txt,10000,1.5643,0.4432,0.9384
+french,6101 Les Miserables Tome Iii M,6101_les_miserables_tome_iii_marius.txt,10000,1.6307,0.4657,0.935
+french,63146 L Etranger,63146_l_etranger.txt,10000,1.6876,0.5917,0.9212
+french,796 La Chartreuse De Parme,796_la_chartreuse_de_parme.txt,10000,3.022,0.9766,0.8563
+french,797 L Abbesse De Castro,797_l_abbesse_de_castro.txt,10000,3.1814,1.0619,0.8304
+french,798 Le Rouge Et Le Noir Chroni,798_le_rouge_et_le_noir_chronique_du_xixe_si_cle.txt,10000,2.9548,0.9851,0.8551
+french,799 De La Terre La Lune Trajet,799_de_la_terre_la_lune_trajet_direct_en_97_heures_20_minutes.txt,10000,3.0763,1.036,0.8223
+french,800 Le Tour Du Monde En Quatre,800_le_tour_du_monde_en_quatre_vingts_jours.txt,10000,2.6821,0.9606,0.8468
+french,801 Les Cenci,801_les_cenci.txt,10000,3.009,0.9856,0.8497
+german,2054 Iphigenie Auf Tauris,2054_iphigenie_auf_tauris.txt,10000,2.0969,0.8732,0.8934
+german,2146 Egmont,2146_egmont.txt,10000,2.2583,1.0008,0.8613
+german,2174 Frau Und Kindern Auf Der ,2174_frau_und_kindern_auf_der_spur.txt,10000,2.1656,0.8986,0.8931
+german,2187 Oberon,2187_oberon.txt,10000,2.4696,0.9437,0.8731
+german,2188 Die Aufzeichnungen Des Ma,2188_die_aufzeichnungen_des_malte_laurids_brigge.txt,10000,3.3095,1.1993,0.8269
+german,2189 Der G Wissenswurm Bauernk,2189_der_g_wissenswurm_bauernkom_die_in_drei_akten.txt,10000,2.2754,0.9553,0.8711
+german,2190 Isabella Von Gypten Kaise,2190_isabella_von_gypten_kaiser_karl_des_f_nften_erste_jugendliebe.txt,10000,4.0044,1.2835,0.7906
+german,2228 Reineke Fuchs,2228_reineke_fuchs.txt,10000,2.2642,0.927,0.8857
+german,2229 Faust Der Trag Die Erster,2229_faust_der_trag_die_erster_teil.txt,10000,1.9935,0.8028,0.9041
+german,2229 Faust I,2229_faust_i.txt,10000,1.9935,0.8028,0.9041
+german,2230 Faust Der Trag Die Zweite,2230_faust_der_trag_die_zweiter_teil.txt,10000,1.9153,0.672,0.9179
+german,2230 Faust Ii,2230_faust_ii.txt,10000,1.9153,0.672,0.9179
+german,22367 Das Schloss,22367_das_schloss.txt,10000,3.464,1.2249,0.8163
+german,22381 Buddenbrooks,22381_buddenbrooks.txt,10000,2.0325,0.788,0.9028
+german,2407 Die Judenbuche,2407_die_judenbuche.txt,10000,3.6673,1.2033,0.8312
+german,27352 Emilia Galotti,27352_emilia_galotti.txt,10000,1.8969,0.6791,0.9141
+german,29150 Der Tod In Venedig,29150_der_tod_in_venedig.txt,10000,2.0289,0.8798,0.8846
+german,30601 Die Leiden Des Jungen We,30601_die_leiden_des_jungen_werther.txt,10000,1.8065,0.6942,0.9171
+german,30605 Wilhelm Meisters Lehrjah,30605_wilhelm_meisters_lehrjahre.txt,10000,1.9637,0.8348,0.8938
+german,44956 Im Westen Nichts Neues,44956_im_westen_nichts_neues.txt,10000,3.3189,1.1483,0.8466
+german,5323 Maria Stuart,5323_maria_stuart.txt,10000,2.9573,1.142,0.8385
+german,5342 Effi Briest,5342_effi_briest.txt,10000,1.7879,0.6697,0.919
+german,6302 Die Raeuber,6302_die_raeuber.txt,10000,2.1037,0.8418,0.8946
+german,6498 Der Steppenwolf,6498_der_steppenwolf.txt,10000,2.5766,1.0065,0.8632
+german,7205 Also Sprach Zarathustra,7205_also_sprach_zarathustra.txt,10000,2.3656,0.8895,0.8944
+german,7849 Der Prozess,7849_der_prozess.txt,10000,1.8659,0.6724,0.9168
+italian,1000 La Divina Commedia Di Dan,1000_la_divina_commedia_di_dante_complete.txt,10000,2.3695,0.8664,0.8789
+italian,1009 La Divina Commedia Di Dan,1009_la_divina_commedia_di_dante_inferno.txt,10000,2.4028,0.859,0.8832
+italian,1010 La Divina Commedia Di Dan,1010_la_divina_commedia_di_dante_purgatorio.txt,10000,2.5541,0.8685,0.8799
+italian,1011 La Divina Commedia Di Dan,1011_la_divina_commedia_di_dante_paradiso.txt,10000,2.6747,0.8853,0.8762
+italian,1012 La Divina Commedia,1012_la_divina_commedia.txt,10000,2.4729,0.8915,0.8718
+italian,1012 La Divina Commedia Di Dan,1012_la_divina_commedia_di_dante.txt,10000,2.4729,0.8915,0.8718
+italian,12914 Il Canzoniere,12914_il_canzoniere.txt,10000,2.4832,0.7474,0.8992
+italian,26502 Le Avventure Di Pinocchi,26502_le_avventure_di_pinocchio.txt,10000,2.0502,0.644,0.9139
+italian,27867 I Malavoglia,27867_i_malavoglia.txt,10000,2.6468,0.951,0.8023
+italian,28287 La Gerusalemme Liberata,28287_la_gerusalemme_liberata.txt,10000,2.6083,0.8085,0.8859
+italian,30718 I Vecchi E I Giovani,30718_i_vecchi_e_i_giovani.txt,10000,2.617,0.7304,0.9041
+italian,3091 Orlando Furioso,3091_orlando_furioso.txt,10000,2.5062,0.7846,0.8876
+italian,34245 Anna Karenina Trad Itali,34245_anna_karenina_trad_italiana.txt,10000,2.9159,0.8489,0.8755
+italian,35532 Pinocchio,35532_pinocchio.txt,10000,2.4436,0.757,0.8937
+italian,3601 Il Principe,3601_il_principe.txt,10000,2.1365,0.6836,0.9096
+italian,36121 Mastro Don Gesualdo,36121_mastro_don_gesualdo.txt,10000,1.9624,0.6619,0.9035
+italian,36289 Il Fu Mattia Pascal,36289_il_fu_mattia_pascal.txt,10000,2.2762,0.6645,0.9112
+italian,3747 Orlando Furioso,3747_orlando_furioso.txt,10000,2.6343,0.8717,0.8743
+italian,40694 Decameron,40694_decameron.txt,10000,2.7918,0.8416,0.8792
+italian,43154 Senilita,43154_senilita.txt,10000,2.0995,0.7072,0.8995
+italian,6887 Il Sacro Macello Di Valte,6887_il_sacro_macello_di_valtellina.txt,10000,3.0329,0.9374,0.8515
+italian,7700 I Promessi Sposi,7700_i_promessi_sposi.txt,10000,1.9732,0.6826,0.8919
+italian,997 Divina Commedia Di Dante I,997_divina_commedia_di_dante_inferno.txt,10000,2.3907,0.8622,0.8816
+italian,998 Divina Commedia Di Dante P,998_divina_commedia_di_dante_purgatorio.txt,10000,2.5369,0.8695,0.8762
+italian,999 Divina Commedia Di Dante P,999_divina_commedia_di_dante_paradiso.txt,10000,2.585,0.8698,0.8803
+polish,15201 Szachy I Warcaby Droga D,15201_szachy_i_warcaby_droga_do_mistrzostwa.txt,10000,2.5191,1.017,0.808
+polish,27062 Romeo I Julia Tragedya W,27062_romeo_i_julia_tragedya_w_5_aktach.txt,10000,1.9102,0.7872,0.8929
+polish,27460 Emancypantki,27460_emancypantki.txt,10000,3.0022,0.7892,0.8959
+polish,28070 Pan Tadeusz,28070_pan_tadeusz.txt,10000,2.9365,0.7423,0.9098
+polish,29705 Quo Vadis,29705_quo_vadis.txt,10000,2.9368,0.7532,0.908
+polish,29706 Ogniem I Mieczem,29706_ogniem_i_mieczem.txt,10000,2.9779,0.7573,0.8999
+polish,29707 Pan Wolodyjowski,29707_pan_wolodyjowski.txt,10000,2.6351,0.6787,0.92
+polish,29719 Wesele,29719_wesele.txt,10000,2.8663,0.7021,0.9121
+polish,32851 Potop Tom I,32851_potop_tom_i.txt,10000,2.2196,0.721,0.898
+polish,32852 Potop Tom Ii,32852_potop_tom_ii.txt,10000,2.5416,0.7921,0.8862
+polish,34039 Ch Opi Jesie,34039_ch_opi_jesie.txt,10000,2.4754,0.7103,0.9056
+polish,34040 Ch Opi Zima,34040_ch_opi_zima.txt,10000,3.3054,0.8377,0.8841
+polish,37756 Ludzie Bezdomni,37756_ludzie_bezdomni.txt,10000,3.4436,0.7554,0.9105
+polish,48158 Krzyzacy Tom I,48158_krzyzacy_tom_i.txt,10000,2.8672,0.7475,0.9029
+polish,48303 Faraon Tom I,48303_faraon_tom_i.txt,10000,3.3563,0.7149,0.907
+polish,48304 Faraon Tom Ii,48304_faraon_tom_ii.txt,10000,3.2436,0.7402,0.9051
+polish,48305 Faraon Tom Iii,48305_faraon_tom_iii.txt,10000,3.3073,0.737,0.9089
+polish,6000 Ironia Pozor W,6000_ironia_pozor_w.txt,10000,2.5788,0.859,0.8844
+polish,8119 Sklepy Cynamonowe,8119_sklepy_cynamonowe.txt,10000,2.9223,0.992,0.8545
+portuguese,11299 O Cancioneiro Portuguez ,11299_o_cancioneiro_portuguez_da_vaticana.txt,10000,2.9491,0.8959,0.859
+portuguese,12579 As Farpas Chronica Mensa,12579_as_farpas_chronica_mensal_da_politica_das_letras_e_dos_costumes_1883_06.txt,10000,3.0986,0.9545,0.8463
+portuguese,13092 As Farpas Chronica Mensa,13092_as_farpas_chronica_mensal_da_politica_das_letras_e_dos_costumes_1878_01.txt,10000,3.2592,0.9778,0.8404
+portuguese,13093 As Farpas Chronica Mensa,13093_as_farpas_chronica_mensal_da_politica_das_letras_e_dos_costumes_1878_02_05.txt,10000,3.2626,0.9641,0.8403
+portuguese,13630 As Farpas Chronica Mensa,13630_as_farpas_chronica_mensal_da_politica_das_letras_e_dos_costumes_1882_06_07.txt,10000,3.2843,0.975,0.8325
+portuguese,16384 A Ilustre Casa De Ramire,16384_a_ilustre_casa_de_ramires.txt,10000,2.6401,0.7613,0.8881
+portuguese,17478 Os Lusiadas,17478_os_lusiadas.txt,10000,1.6784,0.8012,0.8693
+portuguese,23610 A Rel Quia,23610_a_rel_quia.txt,10000,2.1106,0.7817,0.8854
+portuguese,27364 Amor De Perdicao,27364_amor_de_perdicao.txt,10000,2.4555,0.7922,0.8812
+portuguese,2837 Lendas Do Sul,2837_lendas_do_sul.txt,10000,2.8074,0.8585,0.8658
+portuguese,3333 Os Lus Adas,3333_os_lus_adas.txt,10000,1.8784,0.5136,0.9289
+portuguese,55578 Memorias Postumas De Bra,55578_memorias_postumas_de_bras_cubas.txt,10000,1.6677,0.6706,0.91
+portuguese,55681 Helena,55681_helena.txt,10000,1.6429,0.7845,0.8847
+portuguese,55684 Dom Casmurro,55684_dom_casmurro.txt,10000,1.5022,0.747,0.8947
+portuguese,55700 O Cortico,55700_o_cortico.txt,10000,1.9297,0.6824,0.9071
+portuguese,55752 Quincas Borba,55752_quincas_borba.txt,10000,2.4202,0.7561,0.8944
+portuguese,57241 O Primo Basilio,57241_o_primo_basilio.txt,10000,1.8273,0.8508,0.8699
+portuguese,8698 O Livro De Cesario Verde,8698_o_livro_de_cesario_verde.txt,10000,2.002,0.6556,0.8906
+portuguese,9654 Lendas E Narrativas Tomo ,9654_lendas_e_narrativas_tomo_i.txt,10000,2.8954,0.8725,0.8683
+russian,14741 ,14741_.txt,10000,2.3562,0.7906,0.8919
+russian,16527 1001,16527_1001.txt,10000,1.6856,0.5761,0.9247
+russian,28054 Bratja Karamazovy Russia,28054_bratja_karamazovy_russian.txt,10000,0.9839,0.1371,0.9527
+spanish,12455 La Celestina,12455_la_celestina.txt,10000,2.0917,0.7664,0.8837
+spanish,13618 Los Intereses Creados,13618_los_intereses_creados.txt,10000,2.0949,0.8013,0.8756
+spanish,15353 Don Juan Tenorio,15353_don_juan_tenorio.txt,10000,2.0891,0.6856,0.8904
+spanish,15725 La Regenta Tomo I,15725_la_regenta_tomo_i.txt,10000,2.6903,0.9288,0.8517
+spanish,15726 La Regenta Tomo Ii,15726_la_regenta_tomo_ii.txt,10000,1.8287,0.709,0.9048
+spanish,1619 La Celestina,1619_la_celestina.txt,10000,2.9633,1.0539,0.7984
+spanish,16625 El Sombrero De Tres Pico,16625_el_sombrero_de_tres_picos.txt,10000,3.7671,1.116,0.7607
+spanish,2000 Don Quijote,2000_don_quijote.txt,10000,13.0924,1.7454,0.3486
+spanish,21400 Cantar De Mio Cid,21400_cantar_de_mio_cid.txt,10000,2.2238,0.8209,0.8724
+spanish,21537 Cien Anos De Soledad Exc,21537_cien_anos_de_soledad_excerpt.txt,10000,2.093,0.7846,0.8754
+spanish,2367 Los Bombardeos Atomicos D,2367_los_bombardeos_atomicos_de_hiroshima_y_nagasaki.txt,10000,3.0221,0.9078,0.8654
+spanish,24536 Pepita Jimenez,24536_pepita_jimenez.txt,10000,2.7006,0.9227,0.8612
+spanish,320 Vida De Lazarillo De Torme,320_vida_de_lazarillo_de_tormes_y_de_sus_fortunas_y_adversidades.txt,10000,3.4083,1.0264,0.827
+spanish,44291 Rimas Y Leyendas,44291_rimas_y_leyendas.txt,10000,2.2133,0.8237,0.8672
+spanish,46852 El Arbol De La Ciencia,46852_el_arbol_de_la_ciencia.txt,10000,1.8449,0.738,0.8928
+spanish,47577 Niebla,47577_niebla.txt,10000,2.3274,0.844,0.8611
+spanish,49228 El Lazarillo De Tormes,49228_el_lazarillo_de_tormes.txt,10000,2.1095,0.7889,0.8803
+spanish,49836 Fortunata Y Jacinta,49836_fortunata_y_jacinta.txt,10000,2.729,0.9777,0.8125
+spanish,50751 Bodas De Sangre,50751_bodas_de_sangre.txt,10000,2.1713,0.7939,0.8842
+spanish,55711 La Casa De Bernarda Alba,55711_la_casa_de_bernarda_alba.txt,10000,2.0937,0.6946,0.8965
+spanish,56624 La Familia De Pascual Du,56624_la_familia_de_pascual_duarte.txt,10000,5.2147,1.2744,0.6793
+spanish,57838 Platero Y Yo,57838_platero_y_yo.txt,10000,2.078,0.8162,0.8763
+spanish,5877 Reina Valera New Testamen,5877_reina_valera_new_testament_of_the_bible_1602_book_of_matthew.txt,10000,2.6715,0.8443,0.874
+spanish,5878 Reina Valera New Testamen,5878_reina_valera_new_testament_of_the_bible_1858.txt,10000,2.95,0.9242,0.8525
+spanish,5879 Reina Valera New Testamen,5879_reina_valera_new_testament_of_the_bible_1862.txt,10000,2.9037,0.928,0.8483
+spanish,5880 Reina Valera New Testamen,5880_reina_valera_new_testament_of_the_bible_1865.txt,10000,2.7994,0.9103,0.8655
+spanish,5881 Reina Valera New Testamen,5881_reina_valera_new_testament_of_the_bible_1909.txt,10000,2.6723,0.868,0.8735
+spanish,5985 Zadig El Destino Historia,5985_zadig_el_destino_historia_oriental.txt,10000,3.1867,0.9461,0.8568
+swedish,10117 Den Siste Atenaren,10117_den_siste_atenaren.txt,10000,2.6575,0.9825,0.8327
+swedish,12119 Krigskorrespondenter Och,12119_krigskorrespondenter_och_andra_l_gnare.txt,10000,2.0859,0.9011,0.8622
+swedish,12499 F Rbannelse Ver De Otrog,12499_f_rbannelse_ver_de_otrogna.txt,10000,2.016,0.7564,0.9026
+swedish,12613 Eros Begravning,12613_eros_begravning.txt,10000,2.2876,0.9032,0.8584
+swedish,13100 Samlade Arbeten I,13100_samlade_arbeten_i.txt,10000,2.669,0.9215,0.8671
+swedish,13101 Samlade Arbeten Ii,13101_samlade_arbeten_ii.txt,10000,2.0784,0.7173,0.9063
+swedish,2100 Bibeln Gamla Och Nya Test,2100_bibeln_gamla_och_nya_testamentet.txt,10000,2.2884,0.8702,0.8768
+swedish,36370 G Sta Berlings Saga,36370_g_sta_berlings_saga.txt,10000,2.6698,0.9407,0.8642
+swedish,44227 Nils Holgerssons Underba,44227_nils_holgerssons_underbara_resa.txt,10000,2.3398,0.8679,0.8864
+swedish,58530 Kejsarn Av Portugallien,58530_kejsarn_av_portugallien.txt,10000,2.6974,0.9936,0.8311
+swedish,63534 Hems Borna,63534_hems_borna.txt,10000,2.7693,0.9545,0.8596
+swedish,9827 De Vandrande Dj Knarne,9827_de_vandrande_dj_knarne.txt,10000,2.4153,0.8971,0.8735
+swedish,9828 Barnen Ifr N Frostmofj Ll,9828_barnen_ifr_n_frostmofj_llet.txt,10000,2.3788,0.9451,0.8483
+swedish,9951 Arbetets Herrav Lde,9951_arbetets_herrav_lde.txt,10000,2.5535,0.9649,0.8592
